@@ -1,6 +1,7 @@
 import os
 import time
 import re
+
 # Carpeta con los archivos
 folder = r"C:\Users\Tanqu\OneDrive\Documentos\GitHub\School\Files"
 
@@ -9,87 +10,67 @@ files = []
 for f in os.listdir(folder):
     if f.endswith(".html") and f[:-5].isdigit():
         files.append(f)
-        
+
 # Ordenarlos por número
 files.sort(key=lambda x: int(x[:-5]))
 
-# Medidor de tiempo...
-start = time.time()
-#Prueba cada archivo de la carpeta
+# === medidor de tiempo total
+start_total = time.time()
+
+# =dir de salida para tokenizados y acumulador de frecuencias
+tok_dir = os.path.join(folder, "tokens")
+os.makedirs(tok_dir, exist_ok=True)
+freq = {}
+
+# Prueba cada archivo de la carpeta + tokenización y conteo
 for f in files:
     file_path = os.path.join(folder, f)
     file_start = time.time()
-    # Intentar abrir y leer el archivo
-    try:
-        with open(file_path, "r", encoding="utf-8", errors="replace") as archivo:
-            archivo.read()
-        print(f"[{f[:-5]}] OK -> {time.time() - file_start:.4f} s")
-    # Manejar errores de apertura/lectura
-    except Exception as e:
-        print(f"[{f[:-5]}] ERROR: {e}")
-
-#Tiempo total de la prueba
-end = time.time()
-
-output_file = os.path.join(folder, "contenido_archivos.txt")
-# Guardar el contenido de todos los archivos en uno solo y también manejar errores aparté de la prueba
-with open(output_file, "w", encoding="utf-8") as out:
-    out.write("Contenido de los archivos procesados:\n\n")
-    for f in files:
-        file_path = os.path.join(folder, f)
-        try:
-            with open(file_path, "r", encoding="utf-8", errors="replace") as archivo:
-                contenido = archivo.read()
-                # Eliminar etiquetas HTML
-               # contenido_sin_tags = re.sub(r'<[^>]+>', '', contenido)
-                #contenido = contenido_sin_tags
-                # Separar en palabras y ordenar
-               # palabras = contenido.split()
-               # palabras_ordenadas = sorted(palabras, key=str.lower)
-               # contenido_ordenado = ' '.join(palabras_ordenadas)
-            out.write(f"===== {f} =====\n")
-            out.write(contenido + "\n\n")
-        except Exception as e:
-            out.write(f"===== {f} =====\nERROR: {e}\n\n")
-#Imprimir tiempo total del contenido
-print(f"\nSe guardó el contenido en: {output_file}")
-#tiempo total de ordenamiento y guardado de las palabras sin etiquetas
-print(f"Tiempo total de procesamiento y guardado: {time.time() - end:.4f} s")
-print(f"Tiempo total de la prueba: {end - start:.4f} s")
-# === BLOQUE EXTRA (añadir al final, sin modificar nada arriba) ===
-# Crear consolidado (minúsculas) y medir tiempos de crear/ordenar/total
-t0_total = time.time()
-t0_create = time.time()
-
-consolidated_words = []
-for f in files:
-    file_path = os.path.join(folder, f)
     try:
         with open(file_path, "r", encoding="utf-8", errors="replace") as archivo:
             contenido = archivo.read()
-            # quitar etiquetas HTML de forma simple
-            contenido = re.sub(r"<[^>]+>", " ", contenido)
-            # extraer solo palabras [a-z] y pasarlas a minúsculas
-            consolidated_words.extend(re.findall(r"[a-z]+", contenido.lower()))
+
+        # tokenizar (minúsculas, solo letras) y guardar .tok.txt
+        contenido = re.sub(r"<[^>]+>", " ", contenido)                 # quitar etiquetas html simple
+        toks = re.findall(r"[a-z]+", contenido.lower())                # palabras minúsculas
+        with open(os.path.join(tok_dir, f[:-5] + ".tok.txt"), "w", encoding="utf-8") as ft:
+            ft.write("\n".join(toks))
+
+        # acumular frecuencias
+        for w in toks:
+            freq[w] = freq.get(w, 0) + 1
+
+        print(f"[{f[:-5]}] OK -> {time.time() - file_start:.4f} s")
     except Exception as e:
-        # no detenemos el proceso si un archivo falla
-        pass
+        print(f"[{f[:-5]}] ERROR: {e}")
 
-t1_create = time.time()
+# consolidado A–Z
+t_alpha0 = time.time()
+items_alpha = sorted(freq.items(), key=lambda kv: kv[0])               # orden alfabético
+alpha_path = os.path.join(folder, "tokens_alpha.txt")
+with open(alpha_path, "w", encoding="utf-8") as fa:
+    for w, c in items_alpha:
+        fa.write(f"{w} {c}\n")
+t_alpha1 = time.time()
 
-# ordenar alfabéticamente
-t0_sort = time.time()
-consolidated_words.sort()
-t1_sort = time.time()
+# consolidado por frecuencia (desc; empate A–Z)
+t_freq0 = time.time()
+items_byfreq = sorted(freq.items(), key=lambda kv: (-kv[1], kv[0]))
+byfreq_path = os.path.join(folder, "tokens_byfreq.txt")
+with open(byfreq_path, "w", encoding="utf-8") as ff:
+    for w, c in items_byfreq:
+        ff.write(f"{w} {c}\n")
+t_freq1 = time.time()
 
-# guardar consolidado (una palabra por línea)
-consolidated_path = os.path.join(folder, "consolidado_palabras.txt")
-with open(consolidated_path, "w", encoding="utf-8") as out:
-    out.write("\n".join(consolidated_words))
+# tiempos y rutas de salida
+print("\n=== Salidas ===")
+print(f"Tokenizados por archivo: {tok_dir}")
+print(f"Consolidado A–Z:        {alpha_path}")
+print(f"Consolidado por freq.:  {byfreq_path}")
 
-# tiempos en consola (sin crear archivo de log)
-print(f"\nConsolidado guardado en: {consolidated_path}")
-print(f"Tiempo en crear el consolidado: {t1_create - t0_create:.2f} s")
-print(f"Tiempo en ordenar alfabéticamente: {t1_sort - t0_sort:.2f} s")
-print(f"Tiempo total del bloque consolidado: {time.time() - t0_total:.2f} s")
-#César Fernando Serna Velázquez
+print("\n=== Tiempos ===")
+print(f"A–Z:         {t_alpha1 - t_alpha0:.2f} s")
+print(f"Por frec.:   {t_freq1 - t_freq0:.2f} s")
+print(f"Total todo:  {time.time() - start_total:.2f} s")
+
+# César Fernando Serna Velázquez
