@@ -14,63 +14,60 @@ for f in os.listdir(folder):
 # Ordenarlos por número
 files.sort(key=lambda x: int(x[:-5]))
 
-# === medidor de tiempo total
-start_total = time.time()
+# inicializaciones para diccionario/tiempos 
+start_total = time.time()                              # MOD: tiempo total
+tok_dir = os.path.join(folder, "tokens")               # MOD: dir tokenizados (por archivo)
+os.makedirs(tok_dir, exist_ok=True)                    # MOD
+freq = {}                                              # MOD: repeticiones totales
+doc_count = {}                                         # MOD: # de archivos que contienen el token
+time_lines = []                                        # MOD: para archivo de tiempos
+# 
 
-# =dir de salida para tokenizados y acumulador de frecuencias
-tok_dir = os.path.join(folder, "tokens")
-os.makedirs(tok_dir, exist_ok=True)
-freq = {}
-
-# Prueba cada archivo de la carpeta + tokenización y conteo
+# Prueba cada archivo de la carpeta + tokenizar y contar
 for f in files:
     file_path = os.path.join(folder, f)
     file_start = time.time()
     try:
         with open(file_path, "r", encoding="utf-8", errors="replace") as archivo:
-            contenido = archivo.read()
+            contenido = archivo.read()                 # lectura original
 
-        # tokenizar (minúsculas, solo letras) y guardar .tok.txt
-        contenido = re.sub(r"<[^>]+>", " ", contenido)                 # quitar etiquetas html simple
-        toks = re.findall(r"[a-z]+", contenido.lower())                # palabras minúsculas
+        # tokenizar y guardar por archivo 
+        contenido = re.sub(r"<[^>]+>", " ", contenido)             # quitar html básico
+        toks = re.findall(r"[a-z]+", contenido.lower())            # sólo palabras minúsculas
         with open(os.path.join(tok_dir, f[:-5] + ".tok.txt"), "w", encoding="utf-8") as ft:
-            ft.write("\n".join(toks))
+            ft.write("\n".join(toks))                               # tokenizado por archivo
 
-        # acumular frecuencias
+        # acumular repeticiones y #docs (set por archivo)
         for w in toks:
             freq[w] = freq.get(w, 0) + 1
+        for w in set(toks):
+            doc_count[w] = doc_count.get(w, 0) + 1
+        # 
 
-        print(f"[{f[:-5]}] OK -> {time.time() - file_start:.4f} s")
+        dt = time.time() - file_start
+        print(f"[{f[:-5]}] OK -> {dt:.2f} s")
+        time_lines.append(f"{file_path}\t{dt:.2f}")     # MOD: para archivo de tiempos
     except Exception as e:
         print(f"[{f[:-5]}] ERROR: {e}")
 
-# consolidado A–Z
-t_alpha0 = time.time()
-items_alpha = sorted(freq.items(), key=lambda kv: kv[0])               # orden alfabético
-alpha_path = os.path.join(folder, "tokens_alpha.txt")
-with open(alpha_path, "w", encoding="utf-8") as fa:
-    for w, c in items_alpha:
-        fa.write(f"{w} {c}\n")
-t_alpha1 = time.time()
+# escribir diccionario 3 columnas (no ordenado) 
+dict_path = os.path.join(folder, "tokens_dictionary.tsv")  # tabs como separador
+with open(dict_path, "w", encoding="utf-8") as fd:
+    # encabezado opcional (déjalo si tu profe lo quiere; si no, comenta esta línea)
+    fd.write("token\trepeticiones\t#docs\n")
+    for w, c in freq.items():                             # SIN ordenar para máxima velocidad
+        fd.write(f"{w}\t{c}\t{doc_count.get(w,0)}\n")
+# 
 
-# consolidado por frecuencia (desc; empate A–Z)
-t_freq0 = time.time()
-items_byfreq = sorted(freq.items(), key=lambda kv: (-kv[1], kv[0]))
-byfreq_path = os.path.join(folder, "tokens_byfreq.txt")
-with open(byfreq_path, "w", encoding="utf-8") as ff:
-    for w, c in items_byfreq:
-        ff.write(f"{w} {c}\n")
-t_freq1 = time.time()
+#archivo de tiempos 
+times_path = os.path.join(folder, "a6_tiempos.txt")
+with open(times_path, "w", encoding="utf-8") as flog:
+    flog.write("\n".join(time_lines) + "\n\n")
+    flog.write(f"Tiempo total de ejecucion del programa: {int(time.time() - start_total)} segundos\n")
+# 
 
-# tiempos y rutas de salida
+# Reporte en consola
 print("\n=== Salidas ===")
 print(f"Tokenizados por archivo: {tok_dir}")
-print(f"Consolidado A–Z:        {alpha_path}")
-print(f"Consolidado por freq.:  {byfreq_path}")
-
-print("\n=== Tiempos ===")
-print(f"A–Z:         {t_alpha1 - t_alpha0:.2f} s")
-print(f"Por frec.:   {t_freq1 - t_freq0:.2f} s")
-print(f"Total todo:  {time.time() - start_total:.2f} s")
-
-# César Fernando Serna Velázquez
+print(f"Diccionario 3 columnas:  {dict_path}")
+print(f"Archivo de tiempos:      {times_path}")
