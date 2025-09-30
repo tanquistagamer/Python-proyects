@@ -15,12 +15,12 @@ for f in os.listdir(folder):
 files.sort(key=lambda x: int(x[:-5]))
 
 # inicializaciones para diccionario/tiempos 
-start_total = time.time()                              # MOD: tiempo total
-tok_dir = os.path.join(folder, "tokens")               # MOD: dir tokenizados (por archivo)
-os.makedirs(tok_dir, exist_ok=True)                    # MOD
-freq = {}                                              # MOD: repeticiones totales
-doc_count = {}                                         # MOD: # de archivos que contienen el token
-time_lines = []                                        # MOD: para archivo de tiempos
+start_total = time.time()                              # tiempo total
+tok_dir = os.path.join(folder, "tokens")               # dir tokenizados (por archivo)
+os.makedirs(tok_dir, exist_ok=True)                    # 
+freq = {}                                              # repeticiones totales
+doc_count = {}                                         #  de archivos que contienen el token
+time_lines = []                                        # para archivo de tiempos
 # 
 
 # Prueba cada archivo de la carpeta + tokenizar y contar
@@ -46,14 +46,14 @@ for f in files:
 
         dt = time.time() - file_start
         print(f"[{f[:-5]}] OK -> {dt:.2f} s")
-        time_lines.append(f"{file_path}\t{dt:.2f}")     # MOD: para archivo de tiempos
+        time_lines.append(f"{file_path}\t{dt:.2f}")     # para archivo de tiempos
     except Exception as e:
         print(f"[{f[:-5]}] ERROR: {e}")
 
 # escribir diccionario 3 columnas (no ordenado) 
 dict_path = os.path.join(folder, "tokens_dictionary.tsv")  # tabs como separador
 with open(dict_path, "w", encoding="utf-8") as fd:
-    # encabezado opcional (déjalo si tu profe lo quiere; si no, comenta esta línea)
+   
     fd.write("token\trepeticiones\t#docs\n")
     for w, c in freq.items():                             # SIN ordenar para máxima velocidad
         fd.write(f"{w}\t{c}\t{doc_count.get(w,0)}\n")
