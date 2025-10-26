@@ -4,10 +4,8 @@ shot
 netshade
 for
 windows
-go
-back
+95
 view
-the
 security
 levels
 pane

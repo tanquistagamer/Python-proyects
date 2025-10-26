@@ -2,6 +2,7 @@ obtenga
 su
 regalo
 gratis
+160
 usted
 puede
 elegir
@@ -15,14 +16,12 @@ le
 brinda
 por
 el
-s
 oacute
 lo
 hecho
 de
 consultar
 su
-p
 aacute
 gina
 en
@@ -46,5 +45,8 @@ en
 su
 pc
 bmp
+256
 colores
+302
 kb
+160
