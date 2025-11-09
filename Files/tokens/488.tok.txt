@@ -1,8 +1,6 @@
 showroom
 de
 productos
-160
-160
 lubricantes
 automotrices
 lubricantes

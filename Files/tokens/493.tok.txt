@@ -1,18 +1,19 @@
 consejo
 del
 mes
-191
 qu
 eacute
 indica
 la
 presi
 oacute
+n
 de
 aceite
 la
 presi
 oacute
+n
 de
 aceite
 es
@@ -24,6 +25,7 @@ de
 la
 circulaci
 oacute
+n
 del
 lubricante
 en
@@ -35,8 +37,10 @@ que
 sobrepase
 un
 valor
+m
 iacute
 nimo
+a
 fin
 de
 asegurar
@@ -55,11 +59,13 @@ del
 motor
 el
 valor
+m
 iacute
 nimo
 de
 presi
 oacute
+n
 necesario
 es
 caracter
@@ -70,6 +76,7 @@ cada
 veh
 iacute
 culo
+y
 est
 aacute
 especificado
@@ -82,6 +89,8 @@ una
 mayor
 presi
 oacute
+n
+no
 va
 acompa
 ntilde
@@ -92,4 +101,4 @@ una
 mejor
 lubricaci
 oacute
-160
+n

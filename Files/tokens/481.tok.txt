@@ -1,11 +1,11 @@
 informaci
 oacute
+n
 estad
 iacute
 stica
 cont
-160
-160
+p
 aacute
 gina
 anterior
@@ -17,6 +17,7 @@ de
 petr
 oacute
 leo
+y
 gas
 de
 las
@@ -24,9 +25,9 @@ principales
 compa
 ntilde
 iacute
+as
 petroleras
 en
-1994
 que
 cotizan
 en
@@ -39,10 +40,14 @@ miles
 de
 millones
 de
+b
+p
+e
 incluyendo
 maxus
 ventas
 por
+areas
 geogr
 aacute
 ficas
@@ -52,6 +57,7 @@ el
 mundo
 reservas
 por
+areas
 geogr
 aacute
 ficas
@@ -61,6 +67,7 @@ el
 mundo
 producci
 oacute
+n
 de
 petr
 oacute
@@ -69,6 +76,7 @@ total
 argentina
 producci
 oacute
+n
 de
 gas
 natural
@@ -79,6 +87,7 @@ de
 nafta
 total
 argentina
+p
 aacute
 gina
 siguiente
