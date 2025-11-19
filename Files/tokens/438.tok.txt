@@ -1,12 +1,14 @@
 infowar
 com
 discussion
+groups
 infowar
 com
 risks
 digest
 archives
 name
+last
 modified
 size
 description
@@ -1184,6 +1186,7 @@ plain
 infowar
 com
 interpact
+inc
 webwarrior
 infowar
 com

@@ -7,6 +7,7 @@ acu
 house
 ratings
 republicans
+in
 bold
 type
 acu
@@ -29,6 +30,7 @@ smith
 shelby
 73
 alaska
+young
 73
 arizona
 rhodes
@@ -157,6 +159,7 @@ chappell
 57
 mccollum
 82
+young
 86
 gibbons
 41
@@ -327,6 +330,7 @@ moore
 95
 breaux
 71
+long
 15
 maine
 emery
@@ -336,6 +340,7 @@ snowe
 maryland
 dyson
 50
+long
 18
 mikulski
 23
@@ -353,6 +358,7 @@ massachusetts
 conte
 11
 boland
+early
 frank
 15
 shannon
@@ -429,6 +435,7 @@ lott
 missouri
 clay
 13
+young
 24
 gephart
 33

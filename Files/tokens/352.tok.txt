@@ -33,7 +33,9 @@ nemzet
 htmlx
 disclaimer
 dissemination
+of
 information
+is
 for
 public
 benefit
@@ -41,6 +43,8 @@ disclaimer
 responsibility
 for
 content
+is
+not
 assumed
 eeeeeee
 zzzzzzz
@@ -143,6 +147,7 @@ haborut
 soha
 nem
 latottnepeket
+is
 pusztulasba
 sodorna
 legutobbi
@@ -161,6 +166,7 @@ bevandorlast
 esbetelepulest
 nem
 nyilvantartva
+is
 mert
 gyorsabban
 es
@@ -211,6 +217,7 @@ segiteniok
 mi
 kulfoldre
 szakadtak
+is
 felelosek
 vagyunk
 magyarorszagert
@@ -456,12 +463,15 @@ honfitarsaink
 kozul
 vilagszerte
 egyenileg
+is
 szervezetileg
 egyesuletilet
+is
 barmely
 vallashoz
 tartozotemplokozossegeink
 segitseget
+is
 varjuk
 bizunk
 abban
@@ -526,6 +536,7 @@ errol
 sajat
 koltsegunkon
 ertesitjuk
+is
 oket
 lapunk
 kovetkezo
@@ -757,6 +768,7 @@ beke
 cikkelyeinek
 ismertetesevel
 fejezodik
+be
 konyv
 raffaynak
 igaza
@@ -817,6 +829,7 @@ fulei
 egyarant
 suketek
 az
+is
 bizonyos
 hogy
 magyar
@@ -845,6 +858,7 @@ elszant
 szelhamosok
 vannak
 ezek
+is
 erkolcsileg
 felmentve
 erzikmagukata
@@ -858,6 +872,7 @@ es
 erdekeben
 hazudnak
 ezbizonyosodott
+be
 trianonban
 majd
 utana
@@ -962,6 +977,7 @@ kiegyezes
 megtagadva
 az
 1848
+as
 szabadsagharc
 eszmejet
 ahabsburg
@@ -1012,6 +1028,7 @@ tabornokok
 az
 aradi
 13
+at
 jelentettek
 kossuth
 nevezetes
@@ -1039,6 +1056,7 @@ mentesitett
 cabinetpolitika
 akkor
 rangathatja
+be
 hazankat
 ami
 erdekeinkkel
@@ -1048,6 +1066,8 @@ haboruba
 amikor
 tetszik
 es
+be
+is
 fogja
 rangatni
 okvetlenul
@@ -1076,6 +1096,7 @@ meggyoztek
 es
 az
 osztrak
+had
 uzenettel
 elkezdodott
 az
@@ -1087,6 +1108,7 @@ az
 allam
 felelos
 amelyik
+had
 uzenettel
 vagyanelkul
 tamad
@@ -1102,6 +1124,8 @@ szoszentsege
 es
 tisza
 negy
+even
+at
 nem
 szegte
 meg
@@ -1222,6 +1246,7 @@ karolyit
 eskormanyat
 masreszt
 kormany
+is
 bizalmatlan
 volt
 tisztikarral
@@ -1256,6 +1281,7 @@ ketforradalom
 tuzeben
 konyveben
 1923
+as
 becsi
 kiadas
 bartha
@@ -1263,6 +1289,7 @@ bukasa
 utan
 en
 vettem
+at
 mint
 allamtitkar
 hadugyminiszteriumideiglenes
@@ -1406,7 +1433,9 @@ testulete
 hogy
 vedje
 magyarerdekeket
+most
 teljesedett
+be
 tragedia
 hogy
 nem
@@ -1588,6 +1617,7 @@ orosz
 tobbek
 kozott
 ezert
+is
 fizettunk
 trianonban
 raffay
@@ -1620,6 +1650,7 @@ dezsot
 bol
 magyarparaszt
 irasabol
+most
 tudunk
 rikoltani
 hogy
@@ -1657,6 +1688,7 @@ amagyarsag
 laba
 alol
 mint
+most
 raffay
 irja
 monarchian
@@ -1747,6 +1779,7 @@ masik
 allammal
 neminemu
 kozosugyei
+is
 vannak
 magyar
 nemzet
@@ -1777,6 +1810,7 @@ hanem
 eppugy
 itt
 magyarorszagon
+is
 beketargyalasokkal
 kapcsolatban
 apponyi
@@ -1964,6 +1998,7 @@ volt
 dontoa
 kiraly
 elott
+is
 bekeszerzodest
 alairtukbarcza
 gyorgy
@@ -2077,6 +2112,7 @@ bizalmatszamosan
 megbelyegeztek
 egyesek
 idiotanak
+is
 nevezve
 ot
 emiatt
@@ -2201,6 +2237,7 @@ egy
 hatarozott
 lepes
 nalunk
+is
 meghoztaa
 maga
 eredmenyet
@@ -2211,6 +2248,7 @@ ausztrianak
 itelt
 burgenlandi
 teruletrol
+is
 kikellett
 volna
 vonni
@@ -2255,8 +2293,10 @@ mienk
 maradt
 ebbenaz
 esetben
+is
 az
 bizonyosodott
+be
 hogy
 aki
 batrabb
@@ -2330,6 +2370,7 @@ es
 szamos
 mas
 epulet
+is
 gyaszbaoltozott
 ez
 hiabavalo
@@ -2491,6 +2532,7 @@ megertenek
 ha
 hivatalosan
 ra
+is
 kenyszerulnenek
 egy
 elitelo
@@ -2568,6 +2610,7 @@ szethuzas
 tekintetben
 antall
 jozsef
+is
 jo
 magyar
 volt
@@ -2579,6 +2622,7 @@ magat
 kivetel
 az
 1993
+as
 szarszoi
 talalkozasonmegjelent
 1200
@@ -2602,6 +2646,7 @@ tanacsokat
 hallhatott
 volna
 arrol
+is
 hogyan
 lehet
 valoban
@@ -2620,6 +2665,7 @@ az
 elszakitott
 testvereink
 ma
+is
 fulemben
 csengenek
 talalkozon
@@ -2656,6 +2702,7 @@ ela
 kulturpolitikai
 csatarozasokra
 az
+is
 feladatunk
 de
 sorrendben
@@ -2872,6 +2919,7 @@ akkor
 legerosebb
 ha
 onmagaban
+all
 nietzsche
 de
 az
@@ -2926,6 +2974,7 @@ egesz
 vilagban
 egy
 magyar
+is
 er
 annyit
 mint
@@ -2949,8 +2998,10 @@ propagandajaval
 szember
 nekunk
 nem
+is
 kell
 nem
+is
 celunkhazudni
 eleg
 ismetelten
@@ -2976,6 +3027,7 @@ rafogta
 igaz
 lenne
 akkor
+is
 keptelenseg
 hogy
 ezert
@@ -3060,6 +3112,7 @@ lehet
 nyaralni
 szomszedoknal
 ez
+is
 mod
 szemelyeskapcsolatok
 erositesehez
@@ -3077,6 +3130,7 @@ minel
 tobb
 gyermeket
 fogadjunk
+be
 egy
 ket
 heti
@@ -3154,6 +3208,7 @@ nagy
 orszagokat
 tegyunkeleget
 jovoben
+is
 minden
 nemzetkozi
 vallalt
@@ -3227,6 +3282,7 @@ nem
 az
 hogy
 melyik
+part
 jovoltabol
 kerul
 pozicioba
@@ -3307,6 +3363,7 @@ hadsereg
 felszabaditasakor
 ugy
 vonult
+be
 mintha
 esnepe
 nyertek
@@ -3377,6 +3434,7 @@ mostanaban
 sokat
 emlegetett
 klebelsbergkuno
+is
 vallotta
 magyarorszag
 vallas
@@ -3465,6 +3523,7 @@ kerulhet
 az
 orszag
 terulete
+is
 ma
 sem
 talalunk
@@ -3567,6 +3626,7 @@ megvaltozhat
 nak
 meg
 javunkra
+is
 de
 hogy
 egy
@@ -3603,6 +3663,7 @@ kisebbsegeink
 serelmei
 mi
 serelmeink
+is
 ezek
 valosagos
 nepellenes
@@ -3613,6 +3674,7 @@ ernonek
 igaza
 van
 abban
+is
 hogy
 hatarozottabbkulpolitikat
 igenyel
@@ -3620,6 +3682,7 @@ ha
 ma
 meg
 nem
+is
 hivhatunk
 ossze
 nemzetkozikonferenciat
@@ -3751,6 +3814,7 @@ endre
 szabadlabongombos
 gyula
 tavolrol
+is
 itthonmandy
 ivan
 harminc
@@ -3806,9 +3870,11 @@ szemely
 ex
 librise
 vignettaja
+is
 kulfoldi
 magyarok
 megrendeleset
+is
 varja
 kiado
 szinten
@@ -3822,6 +3888,7 @@ postakoltseggel
 egyutt
 kotetenkenti
 rendelest
+is
 teljesitenek
 ebben
 az
@@ -3862,6 +3929,7 @@ gyula
 iro
 neverekuldott
 levelben
+is
 1052
 budapest
 semmelweis
@@ -3888,6 +3956,7 @@ azelszakitott
 teruleteken
 elok
 amugy
+is
 nehez
 sorsan
 kulonos
@@ -3922,6 +3991,7 @@ segiteni
 megrendelesnel
 megszabhato
 az
+is
 ki
 milyen
 faluba
@@ -3931,6 +4001,7 @@ konyvcsomagot
 kulfoldi
 szemelyes
 megrendeleseinkkel
+is
 nagyban
 segitunk
 fekete
@@ -3967,8 +4038,10 @@ ftp
 ftp
 ifi
 uio
+no
 pub
 pgp
+begin
 pgp
 public
 key
@@ -3980,6 +4053,7 @@ rv0zpytqz3mi0inprfk0sjw71ypw0qm
 medov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbx
 jfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20
 wggg
+end
 pgp
 public
 key

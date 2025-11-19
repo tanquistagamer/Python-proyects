@@ -7,6 +7,7 @@ acu
 house
 ratings
 republicans
+in
 bold
 type
 acu
@@ -29,6 +30,7 @@ erdreich
 shelby
 67
 alaska
+young
 62
 arizona
 mccain
@@ -167,6 +169,7 @@ mackay
 38
 gibbons
 38
+young
 71
 bilirakis
 71
@@ -334,6 +337,7 @@ moore
 86
 breaux
 62
+long
 26
 maine
 mckernan
@@ -361,6 +365,7 @@ conte
 14
 boland
 10
+early
 10
 frank
 10
@@ -435,6 +440,7 @@ lott
 90
 missouri
 clay
+young
 19
 gephart
 19

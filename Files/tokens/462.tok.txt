@@ -82,6 +82,7 @@ de
 inversi
 oacute
 que
+no
 afectaron
 fondos
 est
@@ -130,6 +131,7 @@ distribuci
 oacute
 de
 dividendos
+no
 pagados
 el
 consumo
@@ -309,12 +311,14 @@ de
 la
 sociedad
 que
+no
 encuadran
 en
 estas
 dos
 categor
 iacute
+as
 se
 agrupan
 bajo
@@ -330,6 +334,7 @@ tambi
 eacute
 los
 activos
+no
 asignados
 los
 otros
@@ -367,6 +372,7 @@ segmentos
 se
 efect
 uacute
+an
 precios
 internos
 de
@@ -789,6 +795,7 @@ contribuci
 oacute
 de
 ypf
+no
 ser
 aacute
 superior
@@ -964,6 +971,7 @@ jueces
 intervinientes
 hab
 iacute
+an
 dictado
 medidas
 cautelares
@@ -981,6 +989,7 @@ atenci
 oacute
 eacute
 dica
+no
 obstante
 ser
 apeladas
@@ -1013,6 +1022,7 @@ sociedad
 sus
 asesores
 legales
+no
 esperan
 que
 estas
@@ -1179,6 +1189,7 @@ de
 compa
 ntilde
 iacute
+as
 de
 seguro
 de
@@ -1197,6 +1208,7 @@ oacute
 anual
 de
 ypf
+no
 ser
 aacute
 superior
@@ -1258,6 +1270,7 @@ ha
 llevado
 cabo
 un
+an
 aacute
 lisis
 de
@@ -1290,6 +1303,7 @@ del
 anual
 los
 importes
+as
 iacute
 calculados
 ascendieron
@@ -1298,6 +1312,7 @@ la
 porci
 oacute
 corriente
+no
 corriente
 50
 100
@@ -1471,6 +1486,7 @@ compromisos
 de
 compra
 mencionados
+no
 generar
 aacute
 eacute
@@ -1487,6 +1503,7 @@ que
 se
 hab
 iacute
+an
 establecido
 para
 cubrir
@@ -1665,6 +1682,7 @@ tanto
 que
 en
 otros
+no
 existi
 oacute
 tal
@@ -1743,6 +1761,7 @@ oleoductos
 asociados
 destiler
 iacute
+as
 asociadas
 adquirir
 ciertos
@@ -1764,6 +1783,7 @@ oacute
 de
 la
 sociedad
+no
 prev
 eacute
 eacute
@@ -1866,6 +1886,7 @@ en
 que
 los
 mismos
+no
 sean
 efectivamente
 transportados
@@ -1941,6 +1962,7 @@ ser
 aacute
 llevado
 cabo
+no
 en
 octubre
 de
@@ -1983,6 +2005,7 @@ la
 sociedad
 estima
 que
+no
 se
 sufrir
 aacute
@@ -2050,6 +2073,7 @@ sus
 asesores
 legales
 externos
+no
 se
 espera
 que
@@ -2108,6 +2132,7 @@ un
 valor
 de
 libros
+no
 significativo
 sin
 resarcimiento
@@ -2125,6 +2150,7 @@ resarcimiento
 ya
 que
 considera
+no
 le
 correspond
 iacute
@@ -2174,6 +2200,7 @@ accionista
 esto
 en
 principio
+no
 ser
 iacute
 aceptado
@@ -2251,6 +2278,7 @@ adicionalmente
 las
 regal
 iacute
+as
 por
 la
 producci
@@ -2298,6 +2326,7 @@ eacute
 stos
 constitu
 iacute
+an
 una
 exenci
 oacute
@@ -2336,6 +2365,7 @@ oacute
 las
 regal
 iacute
+as
 de
 amoco
 amoco
@@ -2455,6 +2485,7 @@ pagar
 las
 regal
 iacute
+as
 correspondientes
 al
 total
@@ -2470,6 +2501,7 @@ reas
 mencionadas
 iv
 ypf
+no
 ser
 aacute
 responsable
@@ -2538,6 +2570,7 @@ impositivos
 que
 podr
 iacute
+an
 surgir
 como
 consecuencia
@@ -2547,6 +2580,7 @@ la
 sociedad
 considera
 que
+no
 deber
 aacute
 pagar
@@ -2561,6 +2595,7 @@ de
 indemnidad
 en
 consecuencia
+no
 ha
 registrado
 ninguna
@@ -2733,6 +2768,7 @@ diciembre
 de
 1990
 que
+no
 se
 encuentren
 reconocidos
@@ -2759,6 +2795,7 @@ auditados
 por
 la
 sindicatura
+general
 de
 empresas
 uacute
@@ -2766,6 +2803,7 @@ blicas
 toda
 contingencia
 reconocida
+no
 en
 dichos
 estados
@@ -2852,6 +2890,7 @@ en
 tr
 aacute
 mite
+no
 se
 extender
 aacute
@@ -3033,6 +3072,7 @@ la
 sociedad
 considera
 que
+no
 deber
 aacute
 responder
@@ -3151,6 +3191,7 @@ de
 restricciones
 los
 resultados
+no
 asignados
 de
 acuerdo
@@ -3195,6 +3236,7 @@ aportes
 consecuentemente
 los
 resultados
+no
 asignados
 est
 aacute
@@ -3330,6 +3372,7 @@ es
 de
 la
 asamblea
+general
 ordinaria
 de
 accionistas
@@ -3352,6 +3395,7 @@ aprob
 oacute
 distribuir
 resultados
+no
 asignados
 por
 430
@@ -3385,6 +3429,7 @@ reembolso
 de
 regal
 iacute
+as
 pagadas
 en
 exceso
@@ -3436,6 +3481,7 @@ oacute
 nicas
 ypf
 usa
+inc
 adquiri
 oacute
 el
@@ -3487,6 +3533,7 @@ blanca
 petroqu
 iacute
 mica
+general
 mosconi
 sin
 recibir
@@ -3514,6 +3561,7 @@ que
 se
 hab
 iacute
+an
 constituido
 tal
 efecto
@@ -3537,8 +3585,10 @@ de
 servicios
 ypf
 exploration
+and
 production
 overseas
+inc
 ypf
 chile
 petr
@@ -3575,6 +3625,7 @@ ypf
 acquisition
 corporation
 ypf
+per
 uacute
 ypf
 sudamericana
@@ -3740,8 +3791,10 @@ accionistas
 de
 maxus
 que
+no
 hab
 iacute
+an
 aceptado
 la
 oferta
@@ -3794,6 +3847,7 @@ s550
 millones
 otorgada
 por
+the
 chase
 manhattan
 bank
@@ -3939,6 +3993,8 @@ de
 acuerdo
 al
 statement
+of
+the
 accounting
 principles
 board
@@ -4199,6 +4255,7 @@ efecto
 de
 estas
 transacciones
+no
 es
 significativo
 para

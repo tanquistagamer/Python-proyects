@@ -7,6 +7,7 @@ acu
 house
 ratings
 republicans
+in
 caps
 acu
 key
@@ -153,6 +154,7 @@ gibbons
 30
 haley
 100
+young
 100
 rogers
 70
@@ -310,6 +312,7 @@ passman
 rarick
 100
 edwards
+long
 100
 maine
 kyros
@@ -317,6 +320,7 @@ hathaway
 maryland
 mills
 89
+long
 37
 garmatz
 50
@@ -782,6 +786,7 @@ wright
 42
 purcell
 93
+young
 80
 de
 la
@@ -811,6 +816,7 @@ lloyd
 vermont
 vacancy
 virginia
+downing
 100
 whitehurst
 95

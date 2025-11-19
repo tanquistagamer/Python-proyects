@@ -25,6 +25,7 @@ operativa
 680
 471
 resultados
+no
 operativos
 71
 136
@@ -91,6 +92,7 @@ agosto
 1996
 ypf
 sociedad
+an
 oacute
 nima
 nyse
@@ -166,6 +168,7 @@ los
 millones
 del
 mismo
+per
 iacute
 odo
 de
@@ -367,6 +370,7 @@ que
 la
 del
 mismo
+per
 iacute
 odo
 del
@@ -635,6 +639,7 @@ local
 crecieron
 cerca
 de
+us
 60
 por
 barril
@@ -647,6 +652,7 @@ segundo
 trimestre
 de
 1996
+us
 18
 23
 por
@@ -655,6 +661,7 @@ en
 comparaci
 oacute
 con
+us
 15
 63
 para
@@ -889,6 +896,7 @@ actividades
 exploratorias
 contin
 uacute
+an
 en
 la
 cuenca
@@ -1322,6 +1330,7 @@ costos
 financieros
 otros
 gastos
+no
 operativos
 impuesto
 las
@@ -1581,6 +1590,7 @@ los
 millones
 del
 mismo
+per
 iacute
 odo
 del
@@ -1748,6 +1758,7 @@ de
 1995
 inclu
 iacute
+an
 38
 millones
 de
@@ -1782,6 +1793,7 @@ de
 se
 inclu
 iacute
+an
 intereses
 ganados
 por
@@ -1834,6 +1846,7 @@ de
 que
 las
 sociedades
+no
 deber
 aacute
 reflejar
@@ -1926,6 +1939,7 @@ sociedad
 excluyendo
 las
 subsidiarias
+no
 registr
 oacute
 cargo
@@ -2087,6 +2101,7 @@ registrados
 en
 el
 mismo
+per
 iacute
 odo
 del
@@ -2422,6 +2437,7 @@ aguada
 pichana
 por
 el
+per
 iacute
 odo
 de
@@ -2599,6 +2615,7 @@ iacute
 la
 pampilla
 en
+per
 uacute
 en
 junio
@@ -2626,6 +2643,7 @@ la
 pampilla
 en
 lima
+per
 uacute
 dicho
 60
@@ -2818,6 +2836,7 @@ consideradas
 para
 todos
 los
+per
 iacute
 odos
 es
@@ -3313,6 +3332,7 @@ procesado
 en
 refiner
 iacute
+as
 bd
 247
 404
@@ -3461,6 +3481,7 @@ de
 precios
 mayoristas
 nivel
+general
 tasa
 de
 cambio
@@ -3780,6 +3801,7 @@ destinadas
 exploraci
 oacute
 balance
+general
 consolidado
 millones
 de
@@ -3823,6 +3845,7 @@ corriente
 500
 660
 activo
+no
 corriente
 cr
 eacute
@@ -3852,6 +3875,7 @@ intangibles
 total
 del
 activo
+no
 corriente
 10
 371
@@ -3908,6 +3932,7 @@ corriente
 616
 555
 pasivo
+no
 corriente
 cuentas
 por
@@ -3939,6 +3964,7 @@ preferidas
 63
 total
 pasivo
+no
 corriente
 964
 013
@@ -4135,6 +4161,7 @@ fondos
 al
 inicio
 del
+per
 iacute
 odo
 116
@@ -4143,6 +4170,7 @@ fondos
 al
 cierre
 del
+per
 iacute
 odo
 98

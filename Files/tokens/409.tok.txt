@@ -7,6 +7,7 @@ acu
 senate
 ratings
 republicans
+in
 bold
 type
 acu
@@ -96,6 +97,7 @@ huddleston
 louisiana
 johnston
 33
+long
 43
 maine
 cohen
@@ -171,6 +173,7 @@ north
 dakota
 burdick
 22
+young
 65
 ohio
 glenn

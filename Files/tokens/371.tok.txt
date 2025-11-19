@@ -54,6 +54,7 @@ rgy
 rovata
 ezen
 eacute
+ten
 hetilap
 2500
 sz
@@ -88,6 +89,7 @@ kes
 cikke
 ouml
 uuml
+most
 oacute
 nayl
 aacute
@@ -107,6 +109,7 @@ oacute
 oacute
 olvas
 oacute
+it
 megaj
 aacute
 nd
@@ -161,6 +164,7 @@ volna
 az
 uacute
 ember
+is
 csak
 annak
 ouml
@@ -185,6 +189,7 @@ eacute
 ha
 kellett
 anyagiakkal
+is
 aacute
 mogattak
 benn
@@ -198,6 +203,7 @@ megjelen
 eacute
 eacute
 ben
+is
 uuml
 nnepi
 eacute
@@ -232,6 +238,7 @@ lln
 aacute
 nak
 ma
+is
 mell
 eacute
 nk
@@ -254,6 +261,7 @@ jelenl
 eacute
 eacute
 nek
+most
 vasarn
 aacute
 pi
@@ -269,6 +277,7 @@ iacute
 tja
 hallgat
 oacute
+it
 nef
 eacute
 ljenek
@@ -281,6 +290,7 @@ el
 otilde
 tt
 eacute
+is
 megvallom
 mennyei
 aty
@@ -362,9 +372,11 @@ aacute
 eacute
 uuml
 ket
+is
 nek
 uuml
 nk
+is
 maradt
 aggodalmunk
 azokat
@@ -542,6 +554,7 @@ emberekel
 otilde
 tt
 eacute
+is
 megvallom
 mennyei
 aty
@@ -620,6 +633,7 @@ seazon
 ouml
 preng
 kinek
+is
 iacute
 val
 oacute
@@ -675,6 +689,7 @@ uuml
 nincsen
 hiteles
 eacute
+let
 otilde
 ket
 alig
@@ -714,6 +729,7 @@ hasonl
 oacute
 gondolunk
 mi
+is
 kev
 eacute
 sb
@@ -817,6 +833,7 @@ aacute
 csolja
 vall
 oacute
+it
 arra
 tan
 iacute
@@ -855,6 +872,7 @@ eacute
 aacute
 sok
 eacute
+let
 eacute
 becs
 uuml
@@ -912,6 +930,7 @@ vel
 tov
 aacute
 bbra
+is
 leszm
 oacute
 dunk
@@ -931,11 +950,13 @@ ut
 oacute
 daink
 mi
+most
 olvas
 oacute
 ink
 kez
 eacute
+be
 tessz
 uuml
 ezt
@@ -971,6 +992,7 @@ aacute
 rom
 ouml
 nyvet
+let
 ouml
 rl
 ouml
@@ -1001,8 +1023,10 @@ eacute
 munka
 munka
 munka
+eg
 eacute
 sz
+most
 eacute
 zz
 fel
@@ -1016,6 +1040,7 @@ eacute
 de
 itt
 sem
+eg
 eacute
 szen
 otilde
@@ -1576,6 +1601,7 @@ aacute
 ny
 magyars
 aacute
+got
 aacute
 romnegyed
 eacute
@@ -1658,6 +1684,7 @@ eacute
 ges
 magyar
 nemzet
+most
 nem
 eacute
 tezik
@@ -1737,9 +1764,11 @@ csoportnak
 helyzete
 az
 eacute
+let
 szinte
 mindenter
 uuml
+let
 eacute
 fokozatosan
 romlik
@@ -2039,6 +2068,7 @@ mez
 otilde
 eacute
 gben
+is
 ahol
 arom
 aacute
@@ -2067,6 +2097,7 @@ eacute
 ki
 magyar
 falvakat
+is
 trianonidej
 eacute
 ott
@@ -2085,8 +2116,10 @@ magyar
 etnikai
 ter
 uuml
+let
 eacute
 tezett
+most
 magyar
 falvak
 sz
@@ -2224,6 +2257,7 @@ ouml
 tt
 hanem
 ouml
+is
 gyorsult
 magyars
 aacute
@@ -2264,6 +2298,7 @@ eacute
 eacute
 ott
 aacute
+that
 oacute
 megsz
 aacute
@@ -2339,6 +2374,7 @@ ll
 aacute
 ster
 uuml
+let
 asz
 eacute
 kelyf
@@ -2455,6 +2491,7 @@ aacute
 ul
 az
 1920
+as
 eacute
 vek
 rom
@@ -2860,6 +2897,7 @@ els
 otilde
 bbs
 eacute
+get
 kapnia
 uuml
 lpolitikai
@@ -2934,6 +2972,7 @@ leteket
 magyar
 lakoss
 aacute
+got
 eacute
 magyar
 anyagi
@@ -3054,11 +3093,13 @@ akart
 aacute
 eacute
 nem
+is
 tudt
 aacute
 biztositani
 ter
 uuml
+let
 uuml
 ouml
 eacute
@@ -3335,6 +3376,7 @@ aacute
 jukat
 aacute
 nk
+is
 akarj
 aacute
 eacute
@@ -3349,6 +3391,7 @@ magyarorsz
 aacute
 ter
 uuml
+let
 eacute
 bosny
 aacute
@@ -3431,6 +3474,7 @@ kell
 aacute
 llalnunk
 meg
+is
 kellene
 eacute
 rj
@@ -3485,6 +3529,7 @@ aacute
 nia
 ter
 uuml
+let
 eacute
 az
 egyes
@@ -3527,6 +3572,7 @@ amerikaiakt
 oacute
 cser
 eacute
+be
 hat
 aacute
 rok
@@ -3604,6 +3650,7 @@ rom
 aacute
 nia
 mondatlanul
+is
 ter
 uuml
 leti
@@ -3629,6 +3676,7 @@ eacute
 daink
 otilde
 uuml
+is
 ter
 uuml
 leteket
@@ -3691,6 +3739,7 @@ siteni
 kellene
 eacute
 lehetne
+is
 eacute
 li
 balk
@@ -3751,6 +3800,7 @@ aacute
 ucirc
 ouml
 dik
+is
 ez
 magyarellenes
 sz
@@ -3981,6 +4031,7 @@ ouml
 lvetheti
 az
 1920
+as
 eacute
 1947
 es
@@ -4106,6 +4157,7 @@ aacute
 gy
 ucirc
 otilde
+let
 ellen
 ii
 folytat
@@ -4140,6 +4192,7 @@ lhet
 ouml
 leg
 az
+is
 aki
 ezeket
 aacute
@@ -4203,6 +4256,7 @@ gek
 ellen
 ford
 iacute
+that
 oacute
 fenyegetetts
 eacute
@@ -4234,6 +4288,7 @@ eacute
 peihez
 eacute
 pest
+is
 messzire
 vezetne
 annak
@@ -4337,6 +4392,7 @@ aacute
 sban
 szemmel
 aacute
+that
 oacute
 akad
 aacute
@@ -4430,6 +4486,7 @@ ltaluk
 aacute
 lland
 oacute
+an
 sakkban
 tartott
 pszichol
@@ -4537,6 +4594,7 @@ uuml
 kr
 eacute
 ben
+most
 aacute
 tjuk
 mennyire
@@ -4577,10 +4635,12 @@ se
 az
 er
 otilde
+eg
 eacute
 szs
 eacute
 ges
+it
 eacute
 otilde
 eacute
@@ -4656,6 +4716,7 @@ gellenesnek
 ouml
 bbs
 eacute
+get
 sanyargat
 oacute
 eacute
@@ -4979,6 +5040,7 @@ gy
 eacute
 rzem
 azok
+is
 eacute
 rdemess
 eacute
@@ -5046,6 +5108,7 @@ aacute
 aacute
 aacute
 amiazonban
+most
 ouml
 rt
 eacute
@@ -5053,6 +5116,7 @@ nt
 nem
 csak
 az
+it
 eacute
 lethoz
 oacute
@@ -5156,6 +5220,7 @@ peszt
 otilde
 mocsk
 aacute
+is
 ouml
 bben
 jogosanfelh
@@ -5196,6 +5261,7 @@ eacute
 magyark
 eacute
 nt
+most
 kit
 uuml
 ntetett
@@ -5218,6 +5284,7 @@ pzelhet
 otilde
 hogy
 engem
+it
 eacute
 lnek
 oacute
@@ -5291,6 +5358,7 @@ cska
 emlit
 eacute
 sre
+is
 alig
 eacute
 rdemesm
@@ -5343,6 +5411,7 @@ eacute
 el
 hunnia
 lapot
+is
 ism
 eacute
 bem
@@ -5663,6 +5732,7 @@ ouml
 ilyen
 szin
 nincsen
+is
 oacute
 zsid
 oacute
@@ -5808,6 +5878,7 @@ nt
 tal
 aacute
 ennyi
+is
 elegend
 otilde
 eacute
@@ -5873,6 +5944,7 @@ netesen
 mint
 ahogyan
 eacute
+is
 megkock
 aacute
 ztattam
@@ -6067,6 +6139,7 @@ az
 ir
 oacute
 otilde
+eg
 eacute
 szen
 aacute
@@ -6133,8 +6206,10 @@ zz
 aacute
 magyars
 aacute
+got
 magyars
 aacute
+got
 nem
 gondozni
 kell
@@ -6241,6 +6316,7 @@ eacute
 lhet
 otilde
 eacute
+let
 megteremt
 eacute
 eacute
@@ -6405,6 +6481,7 @@ hat
 aacute
 ron
 uacute
+is
 oacute
 ismert
 uuml
@@ -6484,6 +6561,7 @@ sban
 eacute
 enn
 eacute
+is
 ouml
 bbet
 ny
@@ -6637,6 +6715,7 @@ gg
 eacute
 st
 meccsen
+is
 meggy
 otilde
 otilde
@@ -6683,6 +6762,7 @@ oacute
 es
 otilde
 ben
+is
 ezek
 az
 emberek
@@ -6760,6 +6840,7 @@ mad
 aacute
 sokat
 rengetegen
+most
 eacute
 nyszer
 uuml
@@ -6784,6 +6865,7 @@ tartogattak
 ily
 oacute
 don
+eg
 eacute
 szen
 oacute
@@ -6854,6 +6936,7 @@ iacute
 tani
 ouml
 ma
+is
 elmondan
 aacute
 kossuth
@@ -6871,6 +6954,7 @@ el
 otilde
 sz
 ouml
+is
 eacute
 eacute
 tszer
@@ -6938,6 +7022,7 @@ haz
 aacute
 nkat
 azt
+is
 megint
 elmondan
 aacute
@@ -6991,6 +7076,7 @@ nem
 ouml
 otilde
 dtek
+eg
 eacute
 sz
 vid
@@ -7025,6 +7111,7 @@ gkesely
 ucirc
 hasonlat
 nagyon
+is
 helyt
 aacute
 ll
@@ -7058,6 +7145,7 @@ el
 ouml
 nt
 nagyon
+is
 odafigyelek
 eacute
 lem
@@ -7459,6 +7547,7 @@ figura
 el
 otilde
 tt
+is
 sokan
 mondt
 aacute
@@ -7512,6 +7601,7 @@ torgy
 aacute
 hanem
 nagyon
+is
 fontos
 oacute
 zsik
@@ -7551,6 +7641,7 @@ hat
 aacute
 rvonalakra
 ouml
+is
 nagy
 figyelmet
 ford
@@ -7702,6 +7793,7 @@ rt
 ez
 mai
 minta
+is
 ez
 ouml
 rt
@@ -7746,6 +7838,7 @@ otilde
 lt
 aacute
 kdnp
+is
 azt
 akarja
 amit
@@ -7781,6 +7874,7 @@ eacute
 mjelzett
 vezet
 eacute
+is
 ezt
 iacute
 aacute
@@ -7820,6 +7914,7 @@ vannak
 aacute
 aacute
 laszok
+is
 eacute
 eacute
 nem
@@ -7928,6 +8023,7 @@ el
 otilde
 sz
 ouml
+is
 fidesz
 az
 eacute
@@ -8149,6 +8245,7 @@ iacute
 nemzeti
 szavazatokkal
 kell
+felt
 ouml
 lteni
 nem
@@ -8164,6 +8261,7 @@ eacute
 bk
 eacute
 nt
+is
 teljesen
 mindegy
 hogy
@@ -8355,6 +8453,7 @@ sanyargatta
 amely
 nem
 teljes
+eg
 eacute
 sz
 eacute
@@ -8449,6 +8548,7 @@ dni
 ehhez
 persze
 arra
+is
 sz
 uuml
 ks
@@ -8473,6 +8573,7 @@ gtelen
 uuml
 szomor
 uacute
+an
 de
 eacute
 nyeket
@@ -8506,6 +8607,7 @@ mdf
 1998
 ut
 aacute
+is
 parlamenti
 aacute
 rt
@@ -8639,6 +8741,7 @@ tanulhat
 ha
 adottak
 lesznek
+felt
 eacute
 telek
 egy
@@ -8653,9 +8756,11 @@ eacute
 az
 mdf
 fel
+is
 igaz
 hogy
 egy
+eg
 eacute
 szen
 sz
@@ -8846,6 +8951,7 @@ gk
 ouml
 eacute
 st
+is
 az
 eml
 iacute
@@ -8897,6 +9003,7 @@ eacute
 lhet
 otilde
 eacute
+let
 megteremt
 eacute
 eacute
@@ -8914,6 +9021,7 @@ hogy
 eacute
 vedtek
 eacute
+most
 keresik
 kik
 eacute
@@ -9132,6 +9240,7 @@ felel
 otilde
 ss
 eacute
+get
 minden
 eacute
 sztvev
@@ -9188,6 +9297,7 @@ aacute
 tt
 eacute
 rnek
+is
 megtervezettek
 ki
 fogjuk
@@ -9353,6 +9463,7 @@ napon
 els
 otilde
 eacute
+ten
 eacute
 els
 otilde
@@ -9436,6 +9547,7 @@ aacute
 gra
 hozzuk
 az
+eg
 eacute
 szs
 eacute
@@ -9549,5 +9661,6 @@ nyt
 akar
 iacute
 gy
+is
 szavaz
 majd

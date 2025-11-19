@@ -88,6 +88,7 @@ huddleston
 louisiana
 johnston
 43
+long
 46
 maine
 hathaway
@@ -140,6 +141,7 @@ cotton
 mcintyre
 new
 jersey
+case
 williams
 new
 mexico
@@ -162,6 +164,7 @@ north
 dakota
 burdick
 19
+young
 60
 ohio
 metzenbaum

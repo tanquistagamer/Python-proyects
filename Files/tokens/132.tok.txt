@@ -1,4 +1,5 @@
 illinois
+state
 university
 university
 research
@@ -6,9 +7,12 @@ office
 institutional
 animal
 care
+and
+use
 committee
 membership
 roster
+what's
 new
 uro
 services
@@ -33,6 +37,7 @@ alferink
 4620
 psychology
 faculty
+member
 438
 8651
 randy
@@ -47,6 +52,7 @@ cheung
 biological
 sciences
 faculty
+member
 438
 2641
 roy
@@ -61,6 +67,7 @@ horvath
 4540
 philosophy
 faculty
+member
 438
 3890
 ann
@@ -78,6 +85,7 @@ peper
 gale
 taylor
 university
+of
 illinois
 laboratory
 animal
@@ -99,6 +107,7 @@ winter
 5020
 agriculture
 faculty
+member
 438
 5654
 bruce
@@ -110,4 +119,6 @@ representative
 original
 design
 produced
+by
+its
 graphics

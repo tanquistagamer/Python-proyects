@@ -7,6 +7,7 @@ acu
 house
 ratings
 republicans
+in
 bold
 type
 alabama
@@ -25,6 +26,7 @@ bevill
 jones
 60
 alaska
+young
 74
 arizona
 rhodes
@@ -161,6 +163,7 @@ chappell
 77
 gunter
 50
+young
 79
 gibbons
 29
@@ -189,6 +192,7 @@ brinkley
 88
 blackburn
 100
+young
 flynt
 77
 davis
@@ -226,6 +230,7 @@ collins
 rostenkowski
 30
 yates
+young
 68
 annunzio
 25
@@ -329,6 +334,7 @@ rarick
 91
 breaux
 61
+long
 33
 maine
 kyros
@@ -337,6 +343,7 @@ cohen
 maryland
 bauman
 100
+long
 54
 sarbanes
 holt
@@ -732,6 +739,7 @@ mann
 79
 gettys
 70
+young
 95
 south
 dakota
@@ -783,6 +791,7 @@ wright
 43
 price
 84
+young
 46
 de
 la
@@ -814,6 +823,7 @@ vermont
 mallary
 48
 virginia
+downing
 71
 whitehurst
 83

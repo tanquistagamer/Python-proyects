@@ -111,6 +111,7 @@ equipamiento
 de
 destiler
 iacute
+as
 409
 150
 61
@@ -332,6 +333,7 @@ de
 bienes
 aportados
 inversiones
+no
 corrientes
 230
 imputados
@@ -414,6 +416,7 @@ aacute
 reas
 con
 reservas
+no
 probadas
 incluye
 56
@@ -543,6 +546,7 @@ uacute
 blicos
 bonex
 inversiones
+no
 corrientes
 sociedades
 art
@@ -577,8 +581,10 @@ bolivia
 00
 ypf
 exploration
+and
 production
 overseas
+inc
 ordinarias
 s1
 000
@@ -959,6 +965,7 @@ island
 137
 130
 69
+no
 ha
 sido
 consolidada
@@ -988,8 +995,10 @@ sociedad
 neto
 de
 resultados
+no
 trascendidos
 terceros
+no
 ha
 sido
 consolidada
@@ -1000,16 +1009,19 @@ iacute
 nea
 debido
 que
+no
 presenta
 estados
 contables
 por
+no
 haber
 iniciado
 uacute
 sus
 operaciones
 nota
+no
 se
 expone
 valor
@@ -1114,6 +1126,7 @@ de
 constituci
 oacute
 por
+no
 haber
 iniciado
 uacute
@@ -1233,6 +1246,7 @@ contribuciones
 20
 regal
 iacute
+as
 servidumbres
 aacute
 nones

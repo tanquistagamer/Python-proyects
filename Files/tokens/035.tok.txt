@@ -5,7 +5,10 @@ netshade
 for
 windows
 95
+go
+back
 view
+the
 security
 levels
 pane

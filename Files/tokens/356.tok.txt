@@ -33,7 +33,9 @@ nemzet
 htmlx
 disclaimer
 dissemination
+of
 information
+is
 for
 public
 benefit
@@ -41,6 +43,8 @@ disclaimer
 responsibility
 for
 content
+is
+not
 assumed
 eeeeeee
 zzzzzzz
@@ -99,6 +103,7 @@ ferences
 szerzetesseliden
 tavasszal
 tolti
+be
 86
 evet
 faddy
@@ -155,6 +160,7 @@ az
 elet
 es
 hitproblemaira
+is
 nala
 keressek
 valaszt
@@ -181,12 +187,14 @@ foldonjaro
 egbe
 nezo
 lenyt
+is
 tud
 ilyen
 vilagos
 magyarazatot
 adni
 hittelkapcsolatban
+is
 othmar
 atya
 termeszetesen
@@ -324,6 +332,7 @@ rossz
 felmondattalis
 egy
 szoval
+is
 gyokeret
 tud
 verni
@@ -372,6 +381,7 @@ nehez
 kiszakadnia
 meg
 annak
+is
 aki
 latja
 veszelyt
@@ -413,6 +423,7 @@ es
 avallasnal
 en
 magam
+is
 ketsegbe
 esnek
 latva
@@ -480,11 +491,13 @@ tisztan
 latta
 aprogramot
 nepenek
+is
 latnia
 kell
 ez
 program
 ma
+is
 aktualis
 hitnelkul
 nincs
@@ -578,6 +591,7 @@ szalljak
 amelyik
 elott
 mozdony
+is
 van
 am
 egyetlenegy
@@ -646,6 +660,7 @@ nagyon
 buta
 talan
 gonosz
+is
 vagymindketto
 sajnos
 vannak
@@ -743,6 +758,7 @@ baj
 hogy
 meg
 keresztenyek
+is
 osszetevesztik
 vallasgyakorlasat
 vallasossaggal
@@ -773,12 +789,14 @@ mi
 teendo
 sajnos
 nekunk
+is
 hibank
 hogy
 elmeletive
 valt
 vallastanitasunk
 enmondom
+is
 sokszor
 hogy
 az
@@ -815,6 +833,7 @@ neki
 fogalmazni
 hit
 igazsagait
+is
 mert
 elte
 ahitet
@@ -838,6 +857,7 @@ de
 ugy
 kell
 szeretni
+is
 meghato
 volt
 latni
@@ -891,6 +911,7 @@ eltorzitva
 legnagyobb
 realitas
 aki
+be
 akar
 epulni
 azember
@@ -932,6 +953,7 @@ ember
 oseink
 hoseink
 nagyjaink
+is
 szenvedtek
 kuzdottek
 nem
@@ -990,8 +1012,10 @@ evenkeresztul
 megmaradtunk
 remelem
 meg
+is
 fogunk
 maradni
+most
 ugyanelegge
 megfertoztek
 de
@@ -1118,6 +1142,7 @@ elet
 amibe
 beleszuletik
 azember
+no
 meg
 az
 iskola
@@ -1188,6 +1213,7 @@ egesz
 civilizacionk
 eroszakra
 epult
+most
 olyan
 korszakjon
 amikor
@@ -1224,6 +1250,7 @@ sok
 van
 tokeuralom
 kezdodik
+most
 rajottek
 hogy
 penz
@@ -1275,6 +1302,8 @@ apenz
 pedig
 joindulatu
 ember
+most
+is
 tobb
 am
 mint
@@ -1333,9 +1362,11 @@ atya
 miertpolitizal
 hat
 eloszor
+is
 nem
 vagyok
 en
+is
 annyira
 magyar
 ember
@@ -1358,6 +1389,7 @@ partpolitika
 en
 nem
 lephetek
+be
 egyetlen
 partba
 sem
@@ -1372,14 +1404,17 @@ emberhez
 igen
 azttamogathatom
 tanacsot
+is
 adhatok
 hogy
 melyik
+part
 programja
 vanlegkozelebb
 eletcelunkhoz
 ez
 kotelessegem
+is
 pap
 felulrol
 ahitnek
@@ -1387,6 +1422,7 @@ fenyeben
 latja
 nezi
 dolgokat
+no
 meg
 azert
 papok
@@ -1402,6 +1438,7 @@ latja
 kuldetesunket
 itt
 es
+most
 nem
 vagyunk
 kisebbek
@@ -1430,6 +1467,7 @@ elvereztunk
 majdnem
 de
 megmaradtunk
+most
 hid
 szerepunkvan
 athidalni
@@ -1531,6 +1569,7 @@ annakszuletek
 de
 mar
 megfigyelesbol
+is
 mondatom
 hogy
 vannak
@@ -1554,10 +1593,16 @@ voltaztan
 melegek
 lettek
 half
+of
 homosexuals
+are
 born
+that
+way
 halfare
 sucked
+into
+it
 mondja
 az
 usa
@@ -1603,6 +1648,7 @@ okbol
 meg
 ha
 nem
+is
 biralnam
 homoszekszualis
 eletmodot
@@ -1650,6 +1696,7 @@ szerk
 hozzateszi
 itt
 jon
+be
 liberalizmus
 szerepe
 nem
@@ -1838,6 +1885,7 @@ csupan
 ennyi
 volt
 kapja
+be
 nagyon
 utaltam
 oket
@@ -1860,6 +1908,7 @@ ugyanigyutalkoztam
 egy
 magyar
 allampolgaron
+is
 aki
 csikket
 tole
@@ -1873,6 +1922,7 @@ de
 hivatkozhatoka
 ketegyhazi
 esetre
+is
 amikor
 falu
 lakoi
@@ -1886,6 +1936,7 @@ az
 esetekben
 melyekbolmeg
 tobbet
+is
 elmondhatnek
 tobbseget
 felduhito
@@ -1936,6 +1987,7 @@ rakosi
 es
 kadar
 eraban
+is
 nyugodtan
 kiabalhattuk
 hogy
@@ -1944,6 +1996,7 @@ rakosi
 eljen
 sztalin
 sajtoszabadsag
+is
 volt
 nyugodtan
 meg
@@ -1989,8 +2042,10 @@ tiborftp
 ftp
 ifi
 uio
+no
 pub
 pgp
+begin
 pgp
 public
 key
@@ -2002,6 +2057,7 @@ rv0zpytqz3mi0inprfk0sjw71ypw0qm
 medov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbx
 jfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20
 wggg
+end
 pgp
 public
 key

@@ -7,6 +7,7 @@ acu
 house
 ratings
 republicans
+in
 bold
 type
 acu
@@ -285,6 +286,7 @@ haley
 86
 91
 96
+young
 80
 77
 82
@@ -583,6 +585,7 @@ rarick
 95
 98
 breaux
+long
 75
 77
 80
@@ -594,6 +597,7 @@ mills
 75
 75
 83
+long
 30
 38
 33
@@ -1403,6 +1407,7 @@ purcell
 80
 75
 80
+young
 50
 54
 63
@@ -1459,6 +1464,7 @@ mallary
 65
 65
 virginia
+downing
 78
 83
 84

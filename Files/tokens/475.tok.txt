@@ -83,6 +83,7 @@ este
 ntilde
 deber
 iacute
+an
 ejercer
 un
 impacto
@@ -146,6 +147,7 @@ en
 las
 refiner
 iacute
+as
 como
 en
 las

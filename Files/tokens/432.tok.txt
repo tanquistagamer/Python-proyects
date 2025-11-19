@@ -7,6 +7,7 @@ acu
 senate
 ratings
 republicans
+in
 caps
 acu
 key
@@ -151,6 +152,7 @@ edwards
 100
 83
 83
+long
 60
 48
 60
@@ -238,6 +240,7 @@ cotton
 new
 jersey
 williams
+case
 new
 mexico
 anderson
@@ -269,6 +272,7 @@ dakota
 burdick
 33
 10
+young
 92
 68
 69

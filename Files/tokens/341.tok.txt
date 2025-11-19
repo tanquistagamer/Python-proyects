@@ -33,7 +33,9 @@ nemzet
 htmlx
 disclaimer
 dissemination
+of
 information
+is
 for
 public
 benefit
@@ -41,6 +43,8 @@ disclaimer
 responsibility
 for
 content
+is
+not
 assumed
 eeeeeee
 zzzzzzz
@@ -147,6 +151,7 @@ toluk
 mondanak
 meg
 mi
+is
 az
 az
 antalli
@@ -205,6 +210,7 @@ kapta
 valtoztatas
 tortenelmi
 lehetoseget
+is
 es
 ezt
 maradektalanul
@@ -477,6 +483,8 @@ mszp
 magyar
 tarsadalom
 negyvenot
+even
+at
 szamos
 szeminariumon
 szamtalan
@@ -568,6 +576,7 @@ minden
 parttol
 mely
 valaha
+is
 az
 mdf
 elvalami
@@ -674,6 +683,7 @@ ezert
 kezeben
 levo
 hirkozles
+is
 az
 mszp
 hez
@@ -706,6 +716,7 @@ akozossegi
 vagyon
 elherdalasanak
 elen
+all
 mintha
 teny
 elott
@@ -740,6 +751,7 @@ akikevekig
 vagy
 evtizedekig
 olni
+is
 kepesek
 voltak
 aeegy
@@ -750,6 +762,7 @@ masikra
 onmagukat
 szemen
 kopvenyergelnek
+at
 tulso
 oldalra
 meg
@@ -770,6 +783,7 @@ megiscsakmegorizte
 szocialista
 hitet
 hogy
+part
 gyozelme
 eseten
 toletarsadalmi
@@ -797,6 +811,7 @@ alatt
 erdem
 eskuzdelem
 nelkul
+is
 ervenyesulni
 lehetett
 jelensegegyuttes
@@ -812,6 +827,7 @@ es
 vannak
 nemzetkozi
 osszetevoi
+is
 nyugattorz
 vonasainak
 ravetulese
@@ -847,6 +863,7 @@ ele
 alltak
 csak
 egyszer
+is
 hogy
 szembenezzenekonmagukkal
 el
@@ -890,14 +907,17 @@ sem
 valtoztattak
 magyar
 nepnek
+most
 tragikus
 eleterzesben
 kell
 radobbennie
 hogyszocialista
+part
 nem
 letezik
 nem
+is
 volt
 mero
 kaprazat
@@ -910,6 +930,7 @@ erkolcsu
 zsoldos
 csapat
 mely
+most
 ugyanolyanalazatosan
 szolgalja
 ki
@@ -1005,6 +1026,7 @@ voltakjobbagyaval
 szemben
 hanem
 kotelessegei
+is
 koteles
 volt
 megvedeni
@@ -1012,6 +1034,7 @@ es
 koteles
 volt
 gondoskodni
+is
 rola
 feudalis
 rend
@@ -1115,6 +1138,7 @@ szaz
 eves
 szocialistamozgalmak
 egesze
+is
 hitelet
 veszitette
 az
@@ -1181,6 +1205,7 @@ az
 aranybornyu
 szolgalataba
 allitottak
+no
 nem
 magyar
 hanem
@@ -1292,11 +1317,13 @@ kulfoldiek
 kezere
 adni
 nemzetvagyont
+is
 eloszor
 akereskedelmet
 utana
 az
 ipart
+most
 az
 energiaellatast
 bankokat
@@ -1312,6 +1339,7 @@ meg
 nem
 allitjuk
 ingosagainkra
+is
 sor
 kerul
 hogy
@@ -1480,6 +1508,7 @@ nem
 lehetseges
 es
 nem
+is
 lesz
 csak
 egyregyorsulo
@@ -1549,6 +1578,7 @@ ki
 szajbol
 azutolso
 falattal
+is
 van
 ki
 meg
@@ -1562,8 +1592,11 @@ szulootthonokat
 adot
 az
 ehberre
+is
 adot
 lelekzetre
+is
+no
 es
 ez
 sok
@@ -1634,6 +1667,7 @@ vagni
 vilagtol
 terepet
 husz
+even
 belul
 el
 kellegyengetni
@@ -1892,6 +1926,7 @@ agyaban
 de
 ha
 felmerult
+is
 arra
 vonatkozo
 elkepzeles
@@ -1955,6 +1990,7 @@ magyar
 kozeposztalyegy
 jelentos
 resze
+is
 megtagadta
 horthy
 iranti
@@ -1989,6 +2025,7 @@ oroszorszag
 megszuntvolna
 csattanva
 vagodtunk
+at
 masik
 polusra
 es
@@ -2080,6 +2117,7 @@ unioba
 nem
 mostanaban
 kerulunk
+be
 errolbeszelni
 mero
 szedelges
@@ -2143,6 +2181,7 @@ abennunket
 korulvevo
 szlav
 vilag
+is
 nyugat
 pedig
 eppugy
@@ -2233,6 +2272,7 @@ amiben
 mostanaban
 surun
 reszesulunk
+is
 europalegmegalazottabb
 nemzeteve
 valtunk
@@ -2378,6 +2418,7 @@ tamogatast
 kaphatnak
 ellenunk
 oroszorszagtol
+is
 melybizonyara
 nem
 fogadja
@@ -2411,6 +2452,7 @@ foldjereidegen
 katona
 nem
 tette
+be
 labat
 haza
 gyarapodott
@@ -2601,6 +2643,7 @@ mar
 elkeruelhetetlennel
 szemben
 allo
+is
 donthet
 magatartasafelol
 gyavasag
@@ -2646,8 +2689,10 @@ tudunk
 etalalni
 jovobe
 vezeto
+most
 mar
 nagyon
+is
 gyomverte
 osvenyekre
 eleget
@@ -2782,6 +2827,7 @@ gocaiba
 ket
 szalon
 hatoltak
+be
 egyreszt
 azarany
 fenyet
@@ -2835,6 +2881,7 @@ harmadik
 utvalaszasara
 az
 mdf
+be
 beepuelt
 uegynokok
 azonban
@@ -2952,6 +2999,7 @@ hogy
 csodjeminel
 elobb
 kovetkezzek
+be
 de
 lehetoseget
 valosaggalosszeteveszteni
@@ -2979,6 +3027,7 @@ kozonseges
 hazugsag
 1990
 ben
+is
 afueggetlensegnek
 csupan
 lehetosege
@@ -2988,12 +3037,14 @@ elottuenk
 es
 meg
 elehetoseg
+is
 csak
 viszonylagos
 volt
 mara
 pedig
 ez
+is
 elveszett
 amagyarsag
 guzsba
@@ -3019,6 +3070,7 @@ ma
 mareuropa
 tobbi
 nemzete
+is
 figyelembe
 kell
 vennuenk
@@ -3027,6 +3079,7 @@ egymaserdekeit
 szempontjait
 de
 nem
+is
 errol
 van
 szo
@@ -3042,6 +3095,7 @@ belatasunknakmegfeleloen
 elhessuek
 magunk
 rendezhessuek
+be
 es
 hogy
 magunkdonthessuenk
@@ -3105,6 +3159,7 @@ orokitikat
 akarmifele
 szarmazek
 legyen
+is
 az
 reteg
 hez
@@ -3159,9 +3214,11 @@ meltan
 hihetne
 rolunk
 orueltekkel
+all
 szemben
 estalan
 igaza
+is
 volna
 hisz
 egy
@@ -3280,10 +3337,12 @@ sorsunk
 emeggondolasok
 belatasunk
 ellenere
+is
 vegso
 elkeseredes
 1956
 nal
+is
 vadabb
 lazadasba
 tor
@@ -3315,6 +3374,7 @@ vannak
 mar
 aebekefenntartoo
 erok
+is
 istenovjon
 bennuenket
 egy
@@ -3530,6 +3590,7 @@ mert
 kuelonboznek
 vannakosszebekithetetlen
 massagok
+is
 tuz
 nem
 szeretheti
@@ -3537,11 +3598,13 @@ viz
 massagat
 barany
 farkaset
+no
 marmost
 persze
 massag
 szajkozoinakeseteben
 nagyon
+is
 vilagos
 dologrol
 van
@@ -3646,6 +3709,7 @@ amagyaroke
 hanem
 mindenkie
 ahova
+be
 lehet
 telepuelni
 barkinek
@@ -3796,8 +3860,10 @@ ellenseges
 csoportosulasok
 szabadgarazdalkodasat
 zarjatok
+be
 kapukat
 foglalkozzunk
+most
 bevandorlas
 es
 befogadas
@@ -3869,6 +3935,7 @@ fognak
 es
 eletuk
 aran
+is
 vedik
 mert
 ahontalansagnal
@@ -3954,6 +4021,7 @@ ezzel
 kapcsolatban
 hazarol
 van
+most
 szo
 zarjatokbe
 kapukat
@@ -3989,6 +4057,7 @@ jogokra
 hivatkozo
 besetalok
 ellen
+is
 meg
 kellvedelmezni
 hat
@@ -4001,10 +4070,12 @@ csak
 szoval
 tamadrad
 azt
+be
 kell
 engedni
 annak
 mindent
+at
 kell
 adni
 ami
@@ -4040,8 +4111,10 @@ addig
 nem
 koromsotet
 savnezzuk
+most
 meg
 milyen
+is
 mi
 demokraciank
 valosaga
@@ -4096,6 +4169,7 @@ latszatvolt
 szabadsag
 egyenloseg
 emberseg
+is
 aemegvalosultszocializmuso
 korszakaban
 valojaban
@@ -4132,6 +4206,7 @@ intezmeny
 rendszer
 akar
 jo
+is
 lehetne
 shogy
 megsem
@@ -4159,6 +4234,7 @@ jozsef
 fo
 bune
 abban
+all
 hogy
 ennek
 fekete
@@ -4171,6 +4247,7 @@ szo
 nem
 jelkepi
 nem
+is
 atvitt
 ertelmu
 sav
@@ -4335,6 +4412,7 @@ ez
 az
 mszp
 eseteben
+is
 hapedig
 parlamenti
 tobbsegenek
@@ -4348,6 +4426,7 @@ koppintanak
 kenyszerul
 markimondott
 szavat
+is
 visszavonni
 hazai
 hirkozles
@@ -4379,6 +4458,7 @@ mivel
 ademokratikus
 allamrenddel
 szemben
+all
 annak
 nemcsak
 normalismukodeset
@@ -4386,6 +4466,7 @@ teszi
 lehetetlenne
 de
 fennmaradasat
+is
 veszelyezteti
 amiben
 sorsunk
@@ -4474,6 +4555,7 @@ es
 vegig
 nemet
 elnyomasalatt
+is
 allt
 haboruvesztes
 nemzeti
@@ -4507,6 +4589,7 @@ eppenseggel
 jelentos
 nagysagu
 szovjetteruleteket
+is
 annektalt
 tovabba
 teruleteiken
@@ -4519,6 +4602,7 @@ miutan
 gyoztesnek
 minosultek
 velunk
+is
 ekkent
 viselkedhettek
 es
@@ -4563,8 +4647,10 @@ elpusztitottak
 de
 gyilkoltak
 helybenmaradottakat
+is
 mabol
 visszanezve
+is
 vilagosan
 latszik
 hogy
@@ -4576,7 +4662,9 @@ az
 elso
 vilaghaborut
 kovetoen
+is
 marervenyesult
+most
 meg
 fokozottabb
 mertekben
@@ -4589,6 +4677,7 @@ aeszocialista
 taboro
 leple
 alatt
+is
 merobenkulonbozott
 tobbieketol
 tobbi
@@ -4628,6 +4717,7 @@ anepunk
 elleni
 gyulolet
 hatotta
+at
 es
 minden
 lepesuk
@@ -4636,6 +4726,7 @@ lakossag
 szamara
 tekintve
 nem
+is
 esett
 annyi
 halalositelet
@@ -4689,6 +4780,7 @@ akikrol
 szocializmus
 cukormaza
 leolvadvan
+most
 kozonsegesgonosztevokkent
 allnak
 vilag
@@ -4830,6 +4922,7 @@ muhelyeinek
 legparanyibbismerveit
 es
 tavlatait
+is
 az
 un
 nepi
@@ -4929,6 +5022,7 @@ belso
 emigraciobantalalhatta
 talalhatja
 ma
+is
 magat
 mive
 alakult
@@ -5003,6 +5097,7 @@ suket
 ennek
 retegnekjovoltabol
 sul
+most
 dozsa
 gyorgy
 tuzes
@@ -5047,6 +5142,7 @@ randaliroznak
 meg
 az
 utonallok
+is
 tudjak
 hogyveszelyben
 ossze
@@ -5058,6 +5154,7 @@ jarnak
 meg
 az
 oktalanbarom
+is
 osszedugja
 fejet
 ha
@@ -5089,6 +5186,7 @@ am
 az
 alomtortan
 magyarorszagon
+no
 azt
 mar
 nem
@@ -5117,6 +5215,7 @@ orszaghazbanjatszanak
 milyen
 szerep
 ez
+no
 ha
 nem
 tudnak
@@ -5232,6 +5331,7 @@ diszkriminaltak
 esetenkent
 atanulas
 lehetosegetol
+is
 megfosztottak
 az
 autochton
@@ -5273,8 +5373,10 @@ egyetemes
 europai
 kultura
 ertekeit
+is
 pedig
 magyarertelmisegre
+most
 mas
 altal
 nem
@@ -5436,8 +5538,10 @@ ftp
 ftp
 ifi
 uio
+no
 pub
 pgp
+begin
 pgp
 public
 key
@@ -5449,6 +5553,7 @@ rv0zpytqz3mi0inprfk0sjw71ypw0qm
 medov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbx
 jfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20
 wggg
+end
 pgp
 public
 key

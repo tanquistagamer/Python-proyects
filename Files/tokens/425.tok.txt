@@ -7,6 +7,7 @@ acu
 house
 ratings
 republicans
+in
 bold
 type
 acu
@@ -29,6 +30,7 @@ erdreich
 harris
 45
 alaska
+young
 63
 arizona
 rhodes
@@ -157,6 +159,7 @@ mccollum
 mackay
 gibbons
 32
+young
 87
 bilirakis
 78
@@ -326,6 +329,7 @@ morella
 massachusetts
 conte
 boland
+early
 frank
 atkins
 mavroules

@@ -7,6 +7,7 @@ acu
 senate
 ratings
 republicans
+in
 bold
 type
 acu
@@ -97,6 +98,7 @@ huddleston
 louisiana
 johnston
 63
+long
 68
 maine
 cohen

@@ -2,8 +2,10 @@ launchspace
 course
 catalog
 introduction
+to
 space
 for
+non
 technical
 professionals
 kaplan
@@ -23,6 +25,7 @@ dec
 washington
 dc
 fundamentals
+of
 orbit
 mechanics
 kaufman
@@ -34,6 +37,7 @@ dc
 intellectual
 property
 valuing
+and
 licensing
 jarosz
 goldscheider
@@ -44,6 +48,7 @@ washington
 dc
 remote
 sensing
+from
 satellites
 brodsky
 dec
@@ -96,6 +101,7 @@ washington
 dc
 optimal
 estimation
+and
 control
 fresh
 look
@@ -108,7 +114,9 @@ beach
 fl
 systems
 engineering
+an
 approach
+to
 information
 based
 design
@@ -124,6 +132,7 @@ time
 flight
 software
 engineering
+and
 development
 kovacs
 jan
@@ -135,6 +144,7 @@ launch
 vehicle
 environments
 loads
+and
 testing
 deans
 jan
@@ -146,6 +156,7 @@ fl
 space
 flight
 robotics
+and
 teleoperation
 hinman
 sweeney
@@ -158,6 +169,7 @@ fl
 spacecraft
 thermal
 design
+and
 analysis
 yanowitz
 jan
@@ -181,6 +193,7 @@ fl
 sounding
 rockets
 technology
+and
 application
 scredon
 feb
@@ -200,7 +213,9 @@ ground
 station
 command
 control
+of
 satellites
+and
 resources
 kait
 feb
@@ -246,6 +261,7 @@ solid
 rocket
 motor
 design
+and
 applications
 lee
 feb
@@ -257,6 +273,7 @@ fl
 pyrotechnic
 design
 development
+and
 qualification
 bement
 feb
@@ -264,10 +281,13 @@ feb
 21
 washington
 dc
+the
 kalman
 filter
+with
 aerospace
 applications
+using
 matlab
 mackison
 feb
@@ -278,6 +298,7 @@ beach
 fl
 spacecraft
 dynamics
+and
 attitude
 control
 kaplan
@@ -289,7 +310,9 @@ dc
 microsats
 design
 development
+and
 execution
+of
 minimum
 missions
 fleeter
@@ -307,8 +330,10 @@ mar
 cocoa
 beach
 fl
+the
 political
 process
+in
 systems
 architecture
 design
@@ -317,8 +342,10 @@ mar
 washington
 dc
 introduction
+to
 space
 for
+non
 technical
 professionals
 kaplan
@@ -330,6 +357,7 @@ beach
 fl
 geo
 satellite
+on
 orbit
 operations
 owens
@@ -351,9 +379,11 @@ beach
 fl
 wavelets
 net
+took
 for
 signal
 analysis
+using
 matlab
 mackison
 mar
@@ -364,6 +394,7 @@ dc
 supportability
 engineering
 functions
+in
 launch
 vehicle
 systems
@@ -389,6 +420,7 @@ fl
 satellite
 attitude
 control
+and
 attitude
 determination
 systems
@@ -399,6 +431,7 @@ dc
 structural
 dynamics
 analysis
+and
 design
 ojalvo
 apr

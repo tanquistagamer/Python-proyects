@@ -175,6 +175,7 @@ las
 compa
 ntilde
 iacute
+as
 transportadoras
 de
 gas
@@ -467,6 +468,7 @@ chilenas
 aunque
 todav
 iacute
+no
 es
 segura
 la
@@ -586,6 +588,7 @@ consideran
 que
 har
 iacute
+an
 falta
 reservas
 de
@@ -723,6 +726,7 @@ gas
 natural
 durante
 los
+per
 iacute
 odos
 de

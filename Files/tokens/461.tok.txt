@@ -80,6 +80,7 @@ ha
 asumido
 garant
 iacute
+as
 favor
 de
 los
@@ -102,6 +103,7 @@ de
 1995
 ascend
 iacute
+an
 22
 millones
 como
@@ -131,6 +133,7 @@ posee
 de
 esta
 sociedad
+no
 pueden
 ser
 vendidas
@@ -197,6 +200,7 @@ de
 1995
 ascend
 iacute
+an
 s35
 millones
 otorgados
@@ -204,6 +208,7 @@ por
 riobank
 international
 bank
+of
 america
 las
 dos
@@ -427,6 +432,7 @@ gicos
 futuros
 podr
 iacute
+an
 causar
 una
 reevaluaci
@@ -452,8 +458,10 @@ cree
 que
 estos
 cambios
+no
 producir
 iacute
+an
 un
 impacto
 significativo
@@ -483,6 +491,7 @@ regulaciones
 argentinas
 podr
 iacute
+an
 afectar
 los
 resultados
@@ -526,6 +535,7 @@ la
 oferta
 uacute
 blica
+no
 ha
 habido
 cambios
@@ -870,6 +880,7 @@ aacute
 ndez
 neuqu
 eacute
+and
 mendoza
 40
 perez
@@ -1082,6 +1093,7 @@ ypf
 2016
 exploraci
 oacute
+and
 producci
 oacute
 al
@@ -1160,6 +1172,7 @@ de
 magallanes
 quot
 quot
+no
 se
 incluye
 monto
@@ -1338,6 +1351,7 @@ otras
 compa
 ntilde
 iacute
+as
 petroleras
 para
 realizar
@@ -1380,6 +1394,7 @@ aacute
 reas
 de
 bolivia
+per
 uacute
 el
 golfo
@@ -1399,6 +1414,7 @@ uacute
 blicas
 de
 bolivia
+per
 uacute
 que
 han
@@ -1419,8 +1435,10 @@ eacute
 rica
 ypf
 exploration
+and
 production
 overseas
+inc
 durante
 el
 ejercicio
@@ -1488,6 +1506,7 @@ otros
 cr
 eacute
 ditos
+no
 corrientes
 ascend
 iacute
@@ -1539,6 +1558,7 @@ corriente
 31
 21
 activo
+no
 corriente
 294
 134
@@ -1555,6 +1575,7 @@ corriente
 29
 22
 pasivo
+no
 corriente
 total
 del
@@ -1645,10 +1666,13 @@ creditos
 1994
 1993
 corriente
+no
 corriente
 corriente
+no
 corriente
 corriente
+no
 corriente
 sociedades
 controladas
@@ -1668,9 +1692,11 @@ energy
 corporation
 ypf
 usa
+inc
 ypf
 chile
 ypf
+per
 uacute
 21
 sociedades
@@ -1832,6 +1858,7 @@ nicas
 petroqu
 iacute
 mica
+general
 mosconi
 18
 interpetrol
@@ -1917,6 +1944,7 @@ concecuyo
 petroqu
 iacute
 mica
+general
 mosconi
 12
 interpetrol
@@ -2171,6 +2199,7 @@ la
 sociedad
 estima
 que
+no
 existir
 aacute
 reclamos
@@ -2205,6 +2234,7 @@ debido
 que
 la
 sociedad
+no
 hab
 iacute
 sido
@@ -2301,6 +2331,7 @@ retenciones
 de
 impuestos
 que
+no
 ingres
 oacute
 al
@@ -2308,6 +2339,7 @@ plan
 brady
 la
 sociedad
+no
 ser
 aacute
 formalmente

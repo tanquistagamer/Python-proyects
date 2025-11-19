@@ -7,6 +7,7 @@ acu
 senate
 ratings
 republicans
+in
 bold
 type
 acu
@@ -92,6 +93,7 @@ huddleston
 louisiana
 johnston
 65
+long
 19
 maine
 hathaway
@@ -142,6 +144,7 @@ mcintyre
 26
 new
 jersey
+case
 williams
 new
 mexico
@@ -163,6 +166,7 @@ north
 dakota
 burdick
 30
+young
 71
 ohio
 glenn

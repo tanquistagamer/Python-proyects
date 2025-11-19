@@ -103,6 +103,7 @@ una
 cantidad
 de
 prospectos
+no
 perforados
 que
 se

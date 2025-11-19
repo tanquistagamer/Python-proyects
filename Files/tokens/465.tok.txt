@@ -45,6 +45,7 @@ barriles
 se
 verific
 oacute
+as
 iacute
 el
 cuarto
@@ -404,6 +405,7 @@ radio
 corto
 medio
 como
+as
 iacute
 tambi
 eacute
@@ -767,6 +769,7 @@ produccion
 de
 petroleo
 del
+area
 de
 barrancas
 mendoza

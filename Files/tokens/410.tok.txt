@@ -19,6 +19,7 @@ buchanan
 shelby
 68
 alaska
+young
 67
 arizona
 rhodes
@@ -157,6 +158,7 @@ chappell
 67
 kelly
 100
+young
 84
 gibbons
 32
@@ -328,6 +330,7 @@ moore
 74
 breaux
 33
+long
 26
 maine
 emery
@@ -337,6 +340,7 @@ snowe
 maryland
 bauman
 100
+long
 21
 mikulski
 11
@@ -352,6 +356,7 @@ massachusetts
 conte
 17
 boland
+early
 31
 drinan
 11
@@ -434,6 +439,7 @@ lott
 94
 missouri
 clay
+young
 gephart
 skelton
 53

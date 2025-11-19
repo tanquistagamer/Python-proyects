@@ -24,6 +24,7 @@ principales
 compa
 ntilde
 iacute
+as
 petroleras
 en
 1994
@@ -43,6 +44,7 @@ incluyendo
 maxus
 ventas
 por
+areas
 geogr
 aacute
 ficas
@@ -52,6 +54,7 @@ el
 mundo
 reservas
 por
+areas
 geogr
 aacute
 ficas

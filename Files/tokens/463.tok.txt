@@ -117,6 +117,7 @@ cambio
 deducidas
 del
 activo
+no
 corriente
 para
 valuar
@@ -265,6 +266,7 @@ incluidas
 en
 el
 pasivo
+no
 corriente
 para
 eacute
@@ -570,6 +572,7 @@ activo
 corriente
 264
 activo
+no
 corriente
 cr
 eacute
@@ -597,6 +600,7 @@ ditos
 total
 del
 activo
+no
 corriente
 210
 total
@@ -664,6 +668,7 @@ pasivo
 corriente
 475
 pasivo
+no
 corriente
 cuentas
 por
@@ -718,6 +723,7 @@ negociables
 total
 del
 pasivo
+no
 corriente
 271
 total
@@ -830,6 +836,7 @@ contribuciones
 20
 regal
 iacute
+as
 servidumbres
 aacute
 nones

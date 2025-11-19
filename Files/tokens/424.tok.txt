@@ -7,6 +7,7 @@ acu
 senate
 ratings
 republicans
+in
 bold
 type
 acu
@@ -95,6 +96,7 @@ mcconnell
 ford
 35
 louisiana
+long
 65
 johnston
 35

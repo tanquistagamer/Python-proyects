@@ -127,6 +127,7 @@ pepe
 estenssoro
 durante
 ese
+per
 iacute
 odo
 de
@@ -148,6 +149,7 @@ sent
 oacute
 un
 ejemplo
+no
 oacute
 lo
 para
@@ -167,6 +169,7 @@ otras
 compa
 ntilde
 iacute
+as
 petroleras
 latinoamericanas
 internacionales

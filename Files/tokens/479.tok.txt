@@ -95,6 +95,7 @@ en
 las
 refiner
 iacute
+as
 la
 plata
 luj
@@ -102,6 +103,7 @@ aacute
 de
 cuyo
 como
+as
 iacute
 tambi
 eacute

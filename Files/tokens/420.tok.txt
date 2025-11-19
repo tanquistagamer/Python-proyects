@@ -7,6 +7,7 @@ acu
 senate
 ratings
 republicans
+in
 bold
 type
 acu
@@ -95,6 +96,7 @@ huddleston
 ford
 23
 louisiana
+long
 80
 johnston
 59

@@ -89,6 +89,7 @@ huddleston
 louisiana
 johnston
 38
+long
 56
 maine
 mitchell
@@ -162,6 +163,7 @@ north
 dakota
 burdick
 17
+young
 65
 ohio
 glenn

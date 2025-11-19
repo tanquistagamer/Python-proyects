@@ -27,6 +27,7 @@ vicepresidente
 de
 contralor
 iacute
+general
 juan
 garacija
 vicepresidente
@@ -80,6 +81,7 @@ miguel
 madanes
 vicepresidente
 ejecutivo
+no
 incluidos
 en
 la

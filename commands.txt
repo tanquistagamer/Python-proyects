@@ -1,0 +1,16 @@
+$DIR = ".\Files"
+$LOG = "$DIR\a12_2955178.txt"
+$Q = @(
+ "Gauch","elephants","CSCE","Arkansas","gift","abcdef",
+ "20","20.07","123-456-7890",
+ "lawyer consumers","garden computer","United States laws"
+)
+estás son busquedas con stoplist
+foreach($t in $Q){ python retrieve.py $t --dir $DIR --log $LOG }
+
+busquedas sin stoplist
+foreach($t in $Q){ python retrieve.py $t --nostop --dir $DIR --log $LOG }
+
+una sola consulta por ejemplo:
+python retrieve.py elephants --dir .\Files --log .\Files\a12_2955178.txt
+python retrieve.py "United States laws" --nostop --dir .\Files --log .\Files\a12_2955178.txt

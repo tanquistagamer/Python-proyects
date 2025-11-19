@@ -80,8 +80,10 @@ lja
 el
 ocirc
 tt
+is
 ut
 aacute
+is
 val
 oacute
 ban
@@ -119,6 +121,7 @@ el
 otilde
 sz
 ouml
+is
 nagy
 szabads
 aacute
@@ -263,6 +266,7 @@ az
 enged
 eacute
 lyt
+most
 nagy
 kegyesen
 megadt
@@ -279,6 +283,7 @@ eacute
 ly
 eacute
 nincs
+is
 meg
 abban
 rem
@@ -435,6 +440,7 @@ oacute
 pontja
 volt
 az
+eg
 eacute
 sz
 emberis
@@ -452,6 +458,7 @@ ltotta
 meg
 vil
 aacute
+got
 egy
 kis
 eacute
@@ -468,6 +475,7 @@ ouml
 eacute
 ts
 eacute
+get
 eacute
 ny
 retteg
@@ -541,6 +549,7 @@ eml
 eacute
 km
 ucirc
+be
 mely
 szavakkal
 otilde
@@ -656,6 +665,7 @@ legbarb
 aacute
 rabb
 korszakokat
+is
 uacute
 lsz
 aacute
@@ -679,6 +689,7 @@ vel
 eacute
 rt
 eacute
+get
 vil
 aacute
 legh
@@ -729,6 +740,7 @@ minden
 bizonnyal
 megfelelnek
 arra
+is
 hogy
 az
 eml
@@ -736,6 +748,7 @@ eacute
 km
 ucirc
 re
+is
 aacute
 legyenek
 eacute
@@ -824,6 +837,7 @@ aacute
 gy
 ucirc
 otilde
+let
 ellen
 dr
 eacute
@@ -920,6 +934,7 @@ eacute
 rt
 eacute
 eacute
+is
 felemeli
 10
 eacute
@@ -997,11 +1012,13 @@ vegr
 eacute
 szt
 iktatja
+be
 eacute
 pirt
 aacute
 ouml
 eacute
+be
 btk
 157
 cikkely
@@ -1041,6 +1058,7 @@ ll
 aacute
 st
 iktat
+be
 eacute
 szben
 megism
@@ -1208,6 +1226,7 @@ aacute
 gveszt
 eacute
 ssel
+is
 uuml
 ntethet
 otilde
@@ -1252,6 +1271,7 @@ ti
 gy
 ucirc
 ouml
+let
 kelt
 eacute
 eacute
@@ -1339,6 +1359,8 @@ aacute
 sk
 ouml
 eacute
+be
+is
 utalva
 az
 eml
@@ -1579,6 +1601,7 @@ pszabads
 aacute
 megtudta
 azt
+is
 hogy
 bel
 uuml
@@ -1654,6 +1677,7 @@ eacute
 eacute
 pszabads
 aacute
+got
 ugyanm
 aacute
 eacute
@@ -1788,6 +1812,7 @@ aacute
 zal
 eacute
 azonban
+eg
 eacute
 sz
 eacute
@@ -2023,6 +2048,7 @@ aacute
 zal
 eacute
 azonban
+eg
 eacute
 sz
 eacute
@@ -2059,6 +2085,7 @@ bet
 ucirc
 eacute
 szt
+is
 ouml
 zvetve
 eacute
@@ -2071,6 +2098,7 @@ eredm
 eacute
 nyezheti
 az
+is
 hogy
 bel
 uuml
@@ -2122,6 +2150,7 @@ aacute
 ny
 nem
 avatkozhat
+be
 az
 ouml
 nkorm
@@ -2245,6 +2274,7 @@ ember
 bajba
 ker
 uuml
+felt
 eacute
 ve
 ha
@@ -2350,6 +2380,7 @@ gy
 ucirc
 nik
 ezt
+is
 elvonj
 aacute
 jelenleg
@@ -2538,6 +2569,7 @@ dolog
 mint
 ahogy
 eddig
+is
 'csont
 eacute
 lk
@@ -2739,6 +2771,7 @@ am
 iacute
 nem
 aacute
+that
 oacute
 kedvez
 otilde
@@ -2750,6 +2783,7 @@ iacute
 ucirc
 leg
 mszosz
+is
 tudja
 ezt
 csak
@@ -2942,6 +2976,7 @@ bbi
 eacute
 rs
 eacute
+kl
 otilde
 eacute
 sz
@@ -3058,6 +3093,7 @@ az
 olvas
 oacute
 kat
+is
 gyengeelm
 eacute
 ucirc
@@ -3091,6 +3127,7 @@ aacute
 llapod
 aacute
 nem
+is
 sz
 uuml
 letett
@@ -3117,6 +3154,7 @@ llapod
 aacute
 csak
 egy
+felt
 eacute
 teles
 mondatra
@@ -3157,6 +3195,7 @@ bbi
 eacute
 rs
 eacute
+kl
 otilde
 eacute
 ennek
@@ -3292,6 +3331,7 @@ eacute
 eacute
 rdemes
 arra
+is
 kit
 eacute
 rni
@@ -3428,6 +3468,7 @@ ll
 egyed
 uuml
 olvasoink
+is
 kim
 aacute
 solhatjak
@@ -3563,6 +3604,7 @@ ha
 kultuszminiszter
 lennek
 az
+on
 altal
 kinevezett
 kabinetben
@@ -3620,6 +3662,7 @@ akar
 miniszterelnoki
 antall
 intezkedest
+is
 modjaban
 van
 megmasitani
@@ -3641,6 +3684,7 @@ allampolgar
 felkerem
 hogy
 hataskort
+most
 nemzet
 kereszteny
 tobbseget
@@ -3648,6 +3692,7 @@ ert
 alabbi
 inzultus
 melyet
+on
 ugy
 tunik
 mindeddig
@@ -3684,6 +3729,7 @@ facto
 ervenytelenitese
 ugyancsak
 az
+on
 nevehez
 fog
 lemoshatatlanul
@@ -3712,6 +3758,7 @@ folyositott
 nivodij
 az
 alabbiakat
+is
 tartalmazo
 iromanyt
 jutalmazta
@@ -3757,6 +3804,7 @@ bunteny
 es
 buntarsak
 az
+on
 torvenyevel
 buntetendok
 szentatya
@@ -3787,6 +3835,7 @@ tenyek
 sikertelen
 takargatasara
 hacsak
+on
 nem
 szandekozik
 valahova
@@ -3801,6 +3850,7 @@ nez
 mindenkinek
 meg
 annak
+is
 aki
 nem
 kepletesen
@@ -3846,6 +3896,7 @@ arra
 hogy
 egy
 nem
+is
 olyan
 sokara
 meghirdetesre
@@ -3868,6 +3919,7 @@ jutalmat
 forditanak
 majd
 az
+on
 tevekenysegenek
 tortenelem
 szamara
@@ -3904,6 +3956,7 @@ lassuk
 csak
 hogyan
 dijazna
+on
 az
 arpad
 valtozatot
@@ -3913,6 +3966,7 @@ szerinti
 idezetek
 az
 interneten
+is
 megjelent
 spiro
 gyorgy
@@ -4028,6 +4082,7 @@ legalabb
 naponta
 naponta
 tobbszor
+is
 ottmar
 en
 errol
@@ -4051,6 +4106,7 @@ mi
 ebben
 bun
 en
+is
 nekik
 viszont
 mi
@@ -4060,12 +4116,14 @@ monostorban
 24
 oldal
 istvan
+most
 az
 elsonek
 megsimitom
 combja
 kozet
 nedvedzik
+most
 masodikhoz
 lepek
 ugyanazt
@@ -4119,6 +4177,7 @@ olyan
 ez
 amolyan
 ez
+is
 szaj
 igen
 ottmar
@@ -4127,8 +4186,10 @@ fordulj
 el
 nezzed
 megis
+him
 vagy
 te
+is
 lam
 csak
 pal
@@ -4138,6 +4199,7 @@ hogy
 vak
 vagy
 te
+is
 kar
 nos
 szuzek
@@ -4149,6 +4211,7 @@ elteritett
 ferfiut
 visszateriteni
 melyiktek
+is
 nedvezett
 azonnal
 mihelyst
@@ -4165,7 +4228,9 @@ hogy
 szoktak
 baratok
 kezzel
+is
 nyelvvel
+is
 te
 szajha
 tanuld
@@ -4230,6 +4295,7 @@ az
 egyhaz
 orulhetek
 en
+is
 aldott
 legyen
 hoher
@@ -4261,6 +4327,7 @@ volt
 ha
 egy
 nap
+is
 kimarad
 leuttetem
 fejedet
@@ -4271,9 +4338,11 @@ probalj
 lesznek
 ott
 nekem
+is
 kemeim
 probaltam
 en
+is
 ferfiakba
 dugni
 de
@@ -4332,6 +4401,7 @@ oldal
 bela
 ahogyan
 nokent
+is
 hasznaltak
 engem
 monostorban
@@ -4425,6 +4495,7 @@ aki
 kisebb
 ter
 uuml
+let
 visszacsatol
 aacute
 si
@@ -4434,6 +4505,7 @@ nd
 eacute
 kot
 jelentett
+be
 az
 1947
 es
@@ -4568,6 +4640,7 @@ aacute
 magyar
 kisebbs
 eacute
+get
 bossz
 uacute
 aacute
@@ -4674,6 +4747,7 @@ szovjet
 atomhatalom
 megsz
 uuml
+let
 eacute
 se
 ut
@@ -4682,6 +4756,7 @@ magyarorsz
 aacute
 ter
 uuml
+let
 eacute
 re
 atomfegyvereket
@@ -4714,6 +4789,7 @@ aacute
 ltal
 magyars
 aacute
+got
 ouml
 rt
 eacute
@@ -4754,6 +4830,7 @@ rszerz
 eacute
 ter
 uuml
+let
 eacute
 legnagyobb
 botr
@@ -4816,6 +4893,7 @@ jelent
 otilde
 eacute
 ge
+is
 nagy
 hiszen
 megmutatta
@@ -4826,6 +4904,7 @@ aacute
 ll
 aacute
 ellen
+is
 lehets
 eacute
 ges
@@ -4833,6 +4912,7 @@ uuml
 zdelem
 hogy
 az
+eg
 eacute
 sz
 kommunizmus
@@ -4956,6 +5036,7 @@ azonban
 aacute
 rmit
 mondtak
+is
 az
 eszme
 fels
@@ -5042,6 +5123,7 @@ jelleg
 ucirc
 mozgalmakat
 '80
+as
 eacute
 vekben
 abb
@@ -5067,6 +5149,7 @@ ucirc
 ellenz
 eacute
 ket
+is
 kiteny
 eacute
 sztettek
@@ -5098,6 +5181,7 @@ aacute
 ellen
 eacute
 re
+is
 demokr
 aacute
 cia
@@ -5108,6 +5192,7 @@ aacute
 lellenz
 eacute
 kiek
+most
 az
 szdsz
 mszp
@@ -5125,12 +5210,14 @@ csad
 oacute
 test
 uuml
+let
 eacute
 gazdag
 iacute
 tj
 aacute
 '80
+as
 eacute
 vek
 aacute
@@ -5223,6 +5310,7 @@ akart
 aacute
 tudt
 aacute
+is
 ki
 eacute
 iacute
@@ -5351,6 +5439,7 @@ oacute
 oacute
 ter
 uuml
+let
 katona
 eacute
 biztons
@@ -5358,6 +5447,7 @@ aacute
 gpolitika
 ter
 uuml
+let
 eacute
 rendszerv
 aacute
@@ -5504,6 +5594,7 @@ temp
 oacute
 ban
 meg
+is
 indult
 katonai
 ter
@@ -5543,6 +5634,7 @@ aacute
 sa
 ouml
 vetkezik
+be
 ehhez
 korm
 aacute
@@ -5564,6 +5656,7 @@ pesek
 vajon
 mint
 '20
+as
 eacute
 vekben
 bethlen
@@ -5597,6 +5690,7 @@ hogy
 az
 ha
 nem
+is
 egycsap
 aacute
 sra
@@ -5800,6 +5894,7 @@ volt
 arr
 oacute
 mit
+is
 kellene
 tennie
 ez
@@ -5990,6 +6085,7 @@ ebben
 vonatkoz
 aacute
 sban
+is
 elmaradtak
 '90
 es
@@ -6031,6 +6127,7 @@ lehet
 otilde
 eacute
 ge
+is
 volt
 magyarorsz
 aacute
@@ -6057,6 +6154,7 @@ ly
 eacute
 sz
 eacute
+is
 visszaszerezze
 ezek
 szerb
@@ -6235,6 +6333,7 @@ uacute
 gy
 ouml
 vetkezett
+be
 hogy
 felvid
 eacute
@@ -6244,6 +6343,7 @@ aacute
 elismert
 vezet
 otilde
+it
 ouml
 nt
 otilde
@@ -6384,6 +6484,7 @@ eacute
 ezek
 ut
 aacute
+is
 megk
 eacute
 rd
@@ -6553,6 +6654,7 @@ eacute
 eacute
 sek
 az
+eg
 eacute
 sz
 elhib
@@ -6676,6 +6778,7 @@ aacute
 nk
 ter
 uuml
+let
 eacute
 hasonl
 oacute
@@ -6902,6 +7005,7 @@ tev
 eacute
 kenys
 eacute
+get
 ebben
 az
 ir
@@ -7000,6 +7104,7 @@ bor
 uacute
 kapcs
 aacute
+is
 azt
 aacute
 tjuk
@@ -7034,7 +7139,9 @@ tenek
 ki
 magyars
 aacute
+got
 fizikailag
+is
 likvid
 aacute
 oacute
@@ -7129,6 +7236,7 @@ politikai
 tiszteknek
 maga
 miniszter
+is
 ezek
 ouml
 eacute
@@ -7217,10 +7325,12 @@ minisztere
 hozta
 meg
 magyar
+had
 uuml
 gy
 ter
 uuml
+let
 eacute
 pozit
 iacute
@@ -7331,6 +7441,7 @@ oacute
 ez
 magyarorsz
 aacute
+got
 az
 orosz
 nukle
@@ -7515,6 +7626,7 @@ helyzetet
 otilde
 si
 db
+be
 eacute
 iacute
 tett
@@ -7546,6 +7658,7 @@ eacute
 rtelmezhet
 otilde
 mw
+be
 eacute
 iacute
 tett
@@ -7578,12 +7691,14 @@ aacute
 ban
 eacute
 rik
+felt
 eacute
 telezz
 uuml
 hogy
 az
 5500
+is
 megawatt
 oacute
 aacute
@@ -7618,6 +7733,7 @@ eacute
 epst
 az
 5500
+be
 eacute
 iacute
 tett
@@ -7666,6 +7782,7 @@ eacute
 nyez
 otilde
 nek
+is
 szerepelnie
 kell
 teh
@@ -7730,6 +7847,7 @@ kilowatt
 oacute
 aacute
 ban
+adj
 aacute
 meg
 megtermelt
@@ -7778,6 +7896,7 @@ slegesen
 eacute
 iacute
 tettek
+be
 otilde
 ouml
 turbin
@@ -7867,6 +7986,7 @@ ves
 cs
 uacute
 csokkal
+is
 kell
 sz
 aacute
@@ -8044,6 +8164,7 @@ iacute
 tm
 eacute
 nye
+is
 cs
 ouml
 kken
@@ -8406,6 +8527,7 @@ eacute
 alatt
 levonult
 eacute
+be
 aacute
 llt
 2100
@@ -8463,6 +8585,7 @@ gh
 aacute
 nyad
 aacute
+is
 akkor
 ez
 nem
@@ -8527,6 +8650,7 @@ minden
 iacute
 zmennyis
 eacute
+get
 turbin
 aacute
 kra
@@ -8616,6 +8740,7 @@ eacute
 de
 tudjuk
 azt
+is
 hogy
 ouml
 zt
@@ -8629,6 +8754,7 @@ aacute
 sa
 sor
 aacute
+is
 milyen
 hat
 aacute
@@ -8640,6 +8766,7 @@ ki
 ouml
 lts
 eacute
+get
 nem
 iacute
 eacute
@@ -8661,10 +8788,12 @@ eacute
 nt
 mutass
 aacute
+be
 vil
 aacute
 gnak
 ma
+is
 legd
 ouml
 nt
@@ -8798,6 +8927,7 @@ aacute
 nk
 eacute
 ren
+is
 szlov
 aacute
 kokt
@@ -8871,12 +9001,14 @@ honapok
 magyarorszagara
 emlekezteti
 ma
+is
 mint
 akkor
 naci
 megszallas
 van
 csak
+most
 nacik
 nem
 nemetek
@@ -8922,6 +9054,7 @@ tovabb
 mukodott
 kozigazgatasi
 gepezet
+most
 demokratikusan
 megvalasztott
 kormany
@@ -8958,6 +9091,7 @@ meg
 civil
 ruhas
 rendorok
+is
 tomegesen
 vehetnek
 reszt
@@ -9118,6 +9252,7 @@ es
 mindenfogalmazok
 kezeben
 van
+most
 azt
 mondhatna
 valamelyik
@@ -9154,6 +9289,7 @@ magat
 szentigaz
 de
 eloszor
+is
 probaljam
 ezt
 megjelentetni
@@ -9164,6 +9300,7 @@ feljogositott
 napilapban
 hetilapok
 kozul
+is
 csak
 magyar
 forum
@@ -9190,6 +9327,7 @@ nyiltan
 kijelentettek
 hogy
 nincs
+most
 viszont
 eppen
 demokracia
@@ -9222,6 +9360,7 @@ mar
 gyuloletkeltes
 cimen
 buntetendo
+most
 keszitik
 elo
 hogy
@@ -9419,6 +9558,7 @@ hanem
 egy
 masik
 csoport
+is
 zsido
 szarmaza
 suak
@@ -9502,6 +9642,7 @@ zsidosag
 normalis
 90
 szazaleka
+is
 hanyingert
 kap
 gusztustalan
@@ -9615,6 +9756,7 @@ barsonyszekben
 tamadja
 tamadtatja
 mivel
+most
 ezt
 hornnal
 szemben
@@ -9633,6 +9775,7 @@ tovabbi
 leuralashoz
 hat
 ot
+is
 ejteni
 fogjak
 soros
@@ -9678,6 +9821,7 @@ itt
 meg
 akar
 kiraly
+is
 lehessen
 hatterben
 mondjuk
@@ -9714,6 +9858,7 @@ egy
 ember
 akinek
 stilusa
+is
 van
 tud
 irni
@@ -9749,6 +9894,7 @@ utca
 tajan
 de
 masutt
+is
 ahol
 zsidok
 felzsidok
@@ -9847,6 +9993,7 @@ emlekedre
 eskuszom
 en
 megprobaltam
+most
 konyvvel
 beleszolni
 eddig
@@ -9881,14 +10028,25 @@ es
 hatranyos
 helyzetbe
 hozasa
+who
+is
+an
 antisemit
+in
 hungary
+this
+is
+to
+be
 determined
+by
+myself
 jelenti
 ki
 minden
 magara
 valamit
+is
 ado
 media
 boss
@@ -9906,6 +10064,7 @@ wer
 ist
 ein
 jud
+in
 wien
 das
 sage
@@ -9938,6 +10097,7 @@ nyoman
 kivankozott
 leirasra
 mely
+is
 megjelent
 magyar
 nemzet
@@ -10042,6 +10202,7 @@ tomegkommunikacio
 teljes
 strukturajat
 es
+most
 himmlerjeinek
 vezerlete
 alatt
@@ -10066,6 +10227,7 @@ rosszindulatu
 sot
 lehet
 provokator
+is
 am
 judeonacizmust
 nem
@@ -10084,6 +10246,7 @@ kulon
 hangsulyozni
 amit
 cikkiro
+is
 mond
 ld
 pl
@@ -10128,6 +10291,7 @@ ellen
 eletuket
 ado
 nemetek
+is
 jelzo
 csupan
 nacizmus
@@ -10159,6 +10323,7 @@ megengedettnek
 tartanak
 akar
 gyilkossagot
+is
 jelento
 terrorral
 megfelemlitessel

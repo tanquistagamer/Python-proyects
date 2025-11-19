@@ -219,6 +219,8 @@ osszehivasat
 es
 ez
 nem
+is
+all
 szandekaban
 ezt
 az
@@ -232,6 +234,7 @@ kozott
 kovacs
 laszlo
 kulugyminiszter
+is
 kinyilvanitotta
 szogezte
 le
@@ -311,13 +314,16 @@ egy
 az
 egyben
 vennek
+at
 elfogadhatatlan
 az
 ajanlas
 labjegyzettel
 valo
 ellatasa
+is
 annal
+is
 inkabb
 mivel
 etnikumra
@@ -440,6 +446,7 @@ kitolteni
 hogy
 magyarok
 ne
+is
 ismerhessek
 meg
 kerdeseknek
@@ -558,6 +565,7 @@ tavolitani
 hatalomnak
 meg
 kozelebo
+is
 frakcioelnokseg
 azt
 javasolja
@@ -592,6 +600,7 @@ kultura
 kibontakozasanak
 meg
 lehetoseget
+is
 elveszi
 romaniaban
 elo
@@ -605,6 +614,7 @@ hogy
 eddig
 megmaradt
 jogaiktol
+is
 megfosztja
 oket
 kollegium
@@ -632,6 +642,7 @@ meg
 szlovakiaval
 kotott
 szerzodesnel
+is
 tobb
 hianyossagot
 tartalmaz
@@ -828,6 +839,7 @@ merleg
 hianya
 hosszabb
 tavon
+is
 az
 ideinek
 megfelelo
@@ -842,6 +854,7 @@ mukodotoke
 privatizacios
 bevetelek
 nelkul
+is
 befolyik
 az
 orszagba
@@ -951,6 +964,7 @@ bevezetest
 alkalmaztak
 nem
 jott
+be
 kormany
 ugy
 dontott
@@ -958,12 +972,14 @@ hogy
 jovore
 nem
 vezet
+be
 vizitdijat
 az
 egeszsegugyi
 intezmenyekben
 munkanelkuli
 jaradek
+also
 hatara
 jelenlegi
 hatarozott
@@ -981,6 +997,7 @@ felso
 hatara
 pedig
 az
+also
 hatar
 ketszerese
 lenne
@@ -991,6 +1008,7 @@ hogy
 nem
 tervezi
 meg
+be
 fog
 kovetkezni
 na
@@ -1199,6 +1217,7 @@ vallalatoknal
 kepviselok
 nem
 tolthetnek
+be
 vezeto
 tisztseget
 szekeres
@@ -1228,6 +1247,7 @@ na
 akkor
 melyik
 kecskere
+is
 bizza
 fokolompos
 kaposztat
@@ -1401,6 +1421,7 @@ onkormanyzatokra
 es
 szulokre
 haritja
+at
 azokat
 terheket
 amelyek
@@ -1441,6 +1462,7 @@ gyorgy
 eddigi
 fuggetlen
 kepviselo
+is
 akit
 csutortok
 frakciovezeto
@@ -1454,6 +1476,7 @@ ivan
 es
 csapata
 nem
+part
 csak
 egy
 frakcio
@@ -1463,6 +1486,7 @@ azon
 lesz
 hogy
 ellenzeki
+part
 minel
 szorosabb
 kapcsolatot
@@ -1533,8 +1557,10 @@ jovahagyott
 szerzodes
 ben
 annak
+is
 mellekleteben
 annak
+is
 labjegyzetekent
 magyar
 koztarsasag
@@ -1946,6 +1972,7 @@ hogy
 ketoldalu
 kapcsolataik
 kereteben
+is
 hasonlo
 jellegu
 lepeseket
@@ -2215,6 +2242,7 @@ miniszterelnokok
 talalkozojara
 es
 kulugyminiszterek
+is
 evente
 legalabb
 egy
@@ -2277,6 +2305,7 @@ megorzesehez
 es
 megszilarditasahoz
 ezzel
+is
 aktivan
 hozzajaruljanak
 tamogatjak
@@ -2408,6 +2437,7 @@ mondani
 hogy
 konzultaltunk
 akkor
+is
 ha
 csupan
 azt
@@ -2925,6 +2955,7 @@ azt
 nyilvanithatjak
 tajekoztatasnak
 akkor
+is
 ha
 az
 felretajekoztatas
@@ -3003,9 +3034,11 @@ suket
 szoveg
 egyuttmukodhetunk
 lovoldozesben
+is
 sot
 mindketten
 bele
+is
 halhatunk
 egymas
 lelovesebe
@@ -3088,6 +3121,7 @@ egyuttmuakodest
 kozvetlen
 megallapodasok
 alapjan
+is
 ket
 orszag
 egyetemei
@@ -3213,6 +3247,7 @@ definialatlan
 es
 vegrehajthatatlan
 intezkedesek
+is
 csupan
 megvizsgalast
 garantaljak
@@ -3352,6 +3387,7 @@ fentiek
 barmit
 jelentenek
 az
+most
 itt
 kapott
 egy
@@ -3652,6 +3688,7 @@ amely
 magyarsag
 maradek
 jogait
+is
 felado
 melleklet
 labjegyzetebe
@@ -3670,6 +3707,7 @@ magyar
 tortenelemben
 legocsmanyabb
 arulokon
+is
 tultesz
 szerzodo
 felek
@@ -3845,6 +3883,7 @@ teszik
 az
 anyanyelv
 hasznalatat
+is
 helyi
 hatosagokkal
 valo
@@ -3894,6 +3933,7 @@ teszi
 hogy
 kisebbsegek
 nyelven
+is
 kifuggesztesre
 keruljenek
 hagyomanyos
@@ -3907,6 +3947,7 @@ foldrajzi
 feliratok
 na
 hol
+is
 van
 kutya
 elasva
@@ -3940,6 +3981,7 @@ helysegben
 kiirhatjak
 majd
 magyarul
+is
 helyseg
 nevet
 vajon
@@ -4518,6 +4560,7 @@ kapcsolatos
 ketoldalu
 egyuttmukodesuk
 kerdeseit
+is
 amelyek
 szerzodes
 alkalmazasabol
@@ -4670,6 +4713,7 @@ vegrehajtasara
 teruleti
 integritas
 elvet
+is
 beleertve
 na
 ez
@@ -4687,6 +4731,7 @@ lenyeget
 ha
 egy
 szo
+is
 arra
 iranyul
 hogy
@@ -4749,6 +4794,7 @@ mellebeszeles
 ki
 veszi
 ezt
+be
 17
 cikk
 szerzodo
@@ -4788,6 +4834,7 @@ szerzodesbe
 irni
 persze
 nem
+is
 ezert
 irjak
 hanem
@@ -5060,6 +5107,7 @@ ezeken
 teruleteken
 nemzetkozi
 keretekben
+is
 egyuttmukodni
 egyuttmukodnek
 ld
@@ -5145,10 +5193,12 @@ az
 ilyen
 jellegu
 vitakra
+is
 vonatkozzanak
 tetszenek
 tudni
 mit
+is
 jelent
 ez
 ne
@@ -5224,6 +5274,7 @@ szerzodeseikben
 olyan
 eloirasokat
 iktassanak
+be
 amelyek
 alapjan
 az
@@ -5595,6 +5646,7 @@ erdelyi
 magyarsagunk
 maradek
 jogait
+is
 nemzet
 elfogadhatatlan
 arculcsapasan
@@ -5606,6 +5658,7 @@ mar
 csak
 formai
 szempontbol
+is
 szerzodes
 leglenyegesebb
 momentumat
@@ -5637,5 +5690,6 @@ sem
 egyeb
 hazaarulok
 baromsagainak
+on
 leleplezo
 gyujtemenyenel

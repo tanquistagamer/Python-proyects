@@ -141,6 +141,7 @@ recomendable
 para
 el
 engrase
+general
 de
 chasis
 de
@@ -242,6 +243,7 @@ lisos
 rodamientos
 cadenas
 engranajes
+etc
 grasas
 66
 107
@@ -321,6 +323,7 @@ herramientas
 martinetes
 autoelevadores
 criques
+etc
 hidr
 aacute
 ulico
@@ -463,6 +466,7 @@ colas
 como
 cosechadoras
 sembradoras
+etc
 hidrom
 oacute
 vil
@@ -551,6 +555,8 @@ de
 velocidades
 engranajes
 en
+general
+no
 sometidos
 condiciones
 severas

@@ -8,6 +8,7 @@ neri
 fraternity
 nbsp
 nbsp
+mrs
 janice
 gray
 sfo
@@ -29,12 +30,14 @@ mi
 meet
 1st
 sunday
+at
 30
 st
 philip
 neri
 parish
 prayer
+room
 92
 capital
 ave

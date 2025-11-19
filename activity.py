@@ -1,17 +1,16 @@
-#A10: columnas fijas + tf-idf + log ===
+# A10+A11: columnas fijas + tf-idf + documents + log
 from pathlib import Path
 from collections import defaultdict, Counter
 import re, time, math
 
 FOLDER    = Path(r"C:\Users\Tanqu\OneDrive\Documentos\GitHub\School\Files")
-STOPLIST  = FOLDER / "stoplist_en.txt"  # el TXT con tu lista (una palabra por línea)
+STOPLIST  = FOLDER / "stoplist_empty.txt"  # TXT con stoplist (una palabra por línea)
 MATRICULA = "2955178"
 MIN_FREQ  = 2                            # elimina tokens con frecuencia global < 2
 DECIMALS  = 4                            # decimales para el peso
 # Anchos fijos (divisores de 80B)
 W_TOKEN, W_DF, W_START = 13, 3, 4        # 13+3+4=20 → 4 registros ≈ 80B
 W_DOC,   W_WEIGHT      = 3, 7            # 3+7=10   → 8 registros ≈ 80B
-
 
 TOKEN_RE = re.compile(r"[a-z0-9áéíóúüñ']+", re.I)
 
@@ -20,8 +19,21 @@ files = sorted([p for p in FOLDER.iterdir() if p.suffix==".html" and p.stem.isdi
                key=lambda p: int(p.stem))
 N_DOCS = len(files)
 
+# === A11: documents.txt (docID manda a filename/path) 
+t_docs0 = time.perf_counter()
+doc_ids = {p.name: i+1 for i, p in enumerate(files)}               # docID inicia en 1 
+documents_path = FOLDER / "documents.txt"
+documents_path.write_text(  # docID empieza en 1
+    "\n".join(f"{i+1:03d} {p.name}" for i, p in enumerate(files)) + "\n",
+    encoding="utf-8"
+)
+# Tiempo A11 crear documents.txt 
+t_docs = time.perf_counter() - t_docs0
+
+
 # 2) Cargar stoplist
-stop = set(w.strip().lower() for w in STOPLIST.read_text(encoding="utf-8").splitlines() if w.strip())
+stop = set(w.strip().lower() for w in STOPLIST.read_text(encoding="utf-8").splitlines()
+           if w.strip())
 
 # 3) Tokenizar, filtrar (stoplist + len>1), y armar postings
 tokdir = FOLDER / "tokens"; tokdir.mkdir(exist_ok=True)
@@ -32,7 +44,8 @@ for p in files:
     txt  = re.sub(r"<[^>]+>", " ", p.read_text(encoding="utf-8", errors="replace"))
     toks = [t for t in TOKEN_RE.findall(txt.lower()) if len(t) > 1 and t not in stop]
     (tokdir/f"{p.stem}.tok.txt").write_text("\n".join(toks), encoding="utf-8")
-    for w, c in Counter(toks).items(): postings[w].append((p.name, c))
+    for w, c in Counter(toks).items():
+        postings[w].append((p.name, c))          # guardo docname; más abajo traduzco a docID
     log.append(f"{p}\t{time.perf_counter()-t1:.2f}")
 
 # 4) Filtro por frecuencia global mínima
@@ -40,15 +53,16 @@ if MIN_FREQ > 1:
     totals = {w: sum(c for _, c in pairs) for w, pairs in postings.items()}
     postings = {w: pairs for w, pairs in postings.items() if totals[w] >= MIN_FREQ}
 
-# 5) Ordena docs por número para cada token
-for w in postings: postings[w].sort(key=lambda dc: int(dc[0][:-5]))
+# 5) Ordena docs por docID para cada token
+for w in postings:
+    postings[w].sort(key=lambda dc: doc_ids[dc[0]])   # usa el docID secuencial
 
 # 6) Hash table (linear probing) para el diccionario con huecos ;0;-1
 def djb2(s:str)->int:
     h=5381
     for ch in s: h=((h<<5)+h)+ord(ch)
     return h & 0xFFFFFFFF
-
+# Buscar siguiente primo ≥ n 
 def next_prime(n:int)->int:
     if n<2: return 2
     def is_p(x):
@@ -59,7 +73,7 @@ def next_prime(n:int)->int:
         return True
     while not is_p(n): n+=1
     return n
-
+# Crear tabla hash
 n_tokens = len(postings)
 size = next_prime(max(2, math.ceil(n_tokens/0.70)))   # 70% de carga
 table = [None]*size
@@ -69,10 +83,10 @@ for w in postings:
         i = (i+1) % size
     table[i] = (w, len(postings[w]))  # (token, df)
 
-# 7) Escribir dictionary_hash (20B por registro) y posting (10B por registro con PESO tf-idf)
+# 7) Escribir dictionary_hash (20B) y posting (10B) con DOCID + PESO tf-idf
 dict_path = FOLDER/"dictionary_hash.txt"
 post_path = FOLDER/"posting.txt"
-
+# Recorrer tabla hash y escribir
 cursor, dict_lines, post_lines = 0, [], []
 for slot in table:
     if slot is None:
@@ -80,23 +94,22 @@ for slot in table:
         dict_lines.append("".ljust(W_TOKEN) + "0".rjust(W_DF) + "-1".rjust(W_START))
     else:
         w, df = slot
-        # línea de diccionario: TOKEN(13, cortado) + DF(3) + START(4)
         dict_lines.append(w[:W_TOKEN].ljust(W_TOKEN) + str(df).rjust(W_DF) + str(cursor).rjust(W_START))
 
-        # posting: DOCID(3) + PESO(7) por cada doc del token
+        # tf-idf por token
         idf = math.log10(N_DOCS/df) if df else 0.0
-        for doc, freq in postings[w]:
+        for docname, freq in postings[w]:
             tf = 1.0 + math.log10(freq) if freq > 0 else 0.0
             weight = tf * idf
-            docid = int(Path(doc).stem)
-            post_lines.append(str(docid).rjust(W_DOC) + f"{weight:{W_WEIGHT}.{DECIMALS}f}")
+            did = doc_ids[docname]                                   # === A11: usar docID ===
+            post_lines.append(str(did).rjust(W_DOC) + f"{weight:{W_WEIGHT}.{DECIMALS}f}")
         cursor += df
 
 # Guardar
 dict_path.write_text("\n".join(dict_lines)+"\n", encoding="utf-8")
 post_path.write_text("\n".join(post_lines)+"\n", encoding="utf-8")
 
-# 8) Log A10 con tiempos por archivo y total
+# 8) Logs A10 y A11 con tiempos por archivo y total
 total = time.perf_counter() - t0
 (FOLDER/f"a10_{MATRICULA}.txt").write_text(
     "\n".join(log)
@@ -105,5 +118,12 @@ total = time.perf_counter() - t0
     + f"Tiempo total de ejecucion del programa: {int(total)} segundos\n",
     encoding="utf-8"
 )
-
-print(f"OK → {dict_path.name} (20B/registro), {post_path.name} (10B/registro) y a10_{MATRICULA}.txt  (Total {total:.2f}s)")
+# A11: log específico 
+(FOLDER/f"a11_{MATRICULA}.txt").write_text(
+    "\n".join(log)
+    + f"\n\nTiempo crear documents: {t_docs:.2f} s"
+    + f"\nTiempo total (indexación completa): {total:.2f} s\n",
+    encoding="utf-8"
+)
+# Mensaje final
+print(f"OK → {documents_path.name}, {dict_path.name} (20B), {post_path.name} (10B), a10_{MATRICULA}.txt y a11_{MATRICULA}.txt")

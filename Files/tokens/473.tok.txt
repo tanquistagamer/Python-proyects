@@ -39,6 +39,7 @@ oacute
 de
 tecnolog
 iacute
+as
 de
 punta
 para
@@ -137,6 +138,7 @@ modelado
 geoqu
 iacute
 mico
+an
 aacute
 lisis
 de
@@ -287,6 +289,7 @@ de
 nuevas
 tecnolog
 iacute
+as
 para
 sus
 operaciones

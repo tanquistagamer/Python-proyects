@@ -7,6 +7,7 @@ acu
 senate
 ratings
 republicans
+in
 bold
 type
 acu
@@ -91,6 +92,7 @@ huddleston
 ford
 26
 louisiana
+long
 48
 johnston
 56
@@ -144,6 +146,7 @@ mcintyre
 durkin
 new
 jersey
+case
 williams
 new
 mexico
@@ -164,6 +167,7 @@ morgan
 66
 north
 dakota
+young
 69
 burdick
 11

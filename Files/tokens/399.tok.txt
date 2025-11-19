@@ -6,6 +6,7 @@ acu
 house
 ratings
 republicans
+in
 bold
 alabama
 allen
@@ -84,6 +85,7 @@ cook
 louisiana
 johnston
 48
+long
 50
 maine
 muskie
@@ -136,6 +138,7 @@ cotton
 new
 jersey
 williams
+case
 new
 mexico
 montoya
@@ -157,6 +160,7 @@ helms
 north
 dakota
 burdick
+young
 52
 ohio
 saxbe

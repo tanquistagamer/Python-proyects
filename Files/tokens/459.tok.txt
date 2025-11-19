@@ -71,10 +71,13 @@ activo
 1993
 inversiones
 corriente
+no
 corriente
 corriente
+no
 corriente
 corriente
+no
 corriente
 colocaciones
 transitorias
@@ -123,10 +126,13 @@ creditos
 por
 ventas
 corriente
+no
 corriente
 corriente
+no
 corriente
 corriente
+no
 corriente
 deudores
 del
@@ -266,10 +272,13 @@ cr
 eacute
 ditos
 corriente
+no
 corriente
 corriente
+no
 corriente
 corriente
+no
 corriente
 cr
 eacute
@@ -571,10 +580,13 @@ cuentas
 por
 pagar
 corriente
+no
 corriente
 corriente
+no
 corriente
 corriente
+no
 corriente
 proveedores
 563
@@ -621,23 +633,29 @@ vencimiento
 del
 capital
 corriente
+no
 corriente
 corriente
+no
 corriente
 corriente
+no
 corriente
 deuda
 financiera
 externa
 bank
+of
 new
 york
 otros
 intereses
 171
+the
 export
 import
 bank
+of
 japan
 25
 1996
@@ -712,6 +730,7 @@ plan
 brady
 151
 bank
+of
 new
 york
 otros
@@ -1103,6 +1122,7 @@ de
 1995
 la
 asamblea
+general
 ordinaria
 de
 accionistas
@@ -1265,6 +1285,7 @@ sus
 pasivos
 su
 vencimiento
+no
 crear
 grav
 aacute
@@ -1328,9 +1349,11 @@ obligaciones
 en
 forma
 inmediata
+the
 export
 import
 bank
+of
 japan
 financiamiento
 de
@@ -1385,6 +1408,7 @@ aacute
 de
 30
 iacute
+as
 en
 el
 pago
@@ -1435,6 +1459,7 @@ el
 export
 import
 bank
+of
 japan
 contiene
 cl
@@ -1454,6 +1479,7 @@ al
 export
 import
 bank
+of
 japan
 cualquier
 transacci
@@ -1511,6 +1537,7 @@ del
 export
 import
 bank
+of
 japan
 en
 relaci
@@ -1568,6 +1595,7 @@ el
 export
 import
 bank
+of
 japan
 contiene
 causales
@@ -1617,6 +1645,7 @@ estadounidenses
 suspenda
 sus
 pagos
+no
 est
 eacute
 en
@@ -1647,6 +1676,7 @@ las
 mismas
 la
 sociedad
+no
 ha
 sido
 notificada
@@ -1679,6 +1709,7 @@ el
 export
 import
 bank
+of
 japan
 inform
 oacute
@@ -1846,6 +1877,7 @@ caso
 de
 que
 maxus
+no
 pueda
 hacer
 frente
@@ -1890,6 +1922,7 @@ comprometi
 oacute
 por
 el
+per
 iacute
 odo
 de
@@ -1986,6 +2019,7 @@ ordinarias
 de
 acciones
 preferidas
+no
 rescatables
 con
 posterioridad
@@ -2007,6 +2041,7 @@ plazo
 que
 ascend
 iacute
+an
 aproximadamente
 s1
 000
@@ -2079,6 +2114,7 @@ morgan
 guaranty
 trust
 company
+of
 new
 york
 quot

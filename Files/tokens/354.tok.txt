@@ -113,6 +113,7 @@ aacute
 eacute
 kapcs
 aacute
+is
 elgondolkodtat
 oacute
 pedig
@@ -370,6 +371,7 @@ nak
 eacute
 sztvev
 otilde
+it
 otilde
 vil
 aacute
@@ -501,6 +503,7 @@ aacute
 llampolg
 aacute
 rok
+is
 szavazatijoggal
 rendelkezzenek
 uacute
@@ -544,6 +547,7 @@ alapvet
 otilde
 ter
 uuml
+let
 eacute
 otilde
 az
@@ -570,6 +574,7 @@ uacute
 li
 magyars
 aacute
+got
 eacute
 rint
 otilde
@@ -628,6 +633,7 @@ nagyk
 ouml
 vets
 eacute
+get
 bez
 aacute
 rtak
@@ -684,6 +690,7 @@ aacute
 orsz
 aacute
 gaival
+is
 szorosabb
 kapcsolatokat
 kell
@@ -762,6 +769,7 @@ val
 aacute
 rhat
 oacute
+an
 uacute
 jra
 napirendre
@@ -812,6 +820,7 @@ uuml
 lkereskedelm
 uuml
 ket
+is
 maguk
 int
 eacute
@@ -943,6 +952,7 @@ ideiglenes
 uacute
 tlevelet
 szerezzenek
+be
 eacute
 tal
 aacute
@@ -1001,6 +1011,7 @@ el
 otilde
 sz
 ouml
+is
 eacute
 ptelens
 eacute
@@ -1075,6 +1086,7 @@ aki
 csak
 valamicsk
 eacute
+is
 tud
 az
 emigr
@@ -1099,6 +1111,7 @@ ival
 aacute
 aacute
 rral
+most
 hornnal
 egy
 gy
@@ -1115,6 +1128,7 @@ aacute
 aacute
 rolhat
 oacute
+an
 korrupt
 eacute
 vagy
@@ -1125,6 +1139,7 @@ sajnos
 nem
 ritk
 aacute
+be
 eacute
 iacute
 tett
@@ -1151,10 +1166,12 @@ lrevezetett
 oacute
 raval
 oacute
+is
 ouml
 zt
 uuml
 akiknek
+most
 majd
 felny
 iacute
@@ -1177,10 +1194,12 @@ otthoni
 laph
 iacute
 szerint
+is
 hajdani
 munk
 aacute
 otilde
+most
 minisztereln
 ouml
 horn
@@ -1207,6 +1226,7 @@ tiszteletbeli
 konzulok
 szem
 eacute
+be
 mondt
 aacute
 hogy
@@ -1270,6 +1290,7 @@ ellenvet
 eacute
 st
 jelentsen
+be
 minisztereln
 ouml
 uuml
@@ -1312,6 +1333,7 @@ tez
 eacute
 sine
 qua
+non
 aacute
 aacute
 rki
@@ -1459,6 +1481,7 @@ eacute
 ben
 vajon
 hogyan
+is
 alakult
 ki
 tiszteletbeli
@@ -1525,6 +1548,7 @@ minden
 aacute
 mellett
 arra
+is
 kiterjedt
 hogy
 bizonyos
@@ -1545,6 +1569,7 @@ igy
 ker
 uuml
 lt
+be
 jobban
 mondva
 maradt
@@ -1601,6 +1626,7 @@ aacute
 derszem
 eacute
 lyzet
+is
 maradt
 akik
 hatalmuk
@@ -1618,11 +1644,13 @@ uuml
 knek
 jeszenszky
 nek
+is
 nyiltan
 otilde
 iacute
 aacute
 sban
+is
 ellentmondottak
 ennek
 az
@@ -1752,6 +1780,7 @@ rsz
 aacute
 doll
 aacute
+is
 sz
 aacute
 iacute
@@ -1817,6 +1846,7 @@ bevallott
 liber
 aacute
 lis
+be
 aacute
 ll
 iacute
@@ -1853,10 +1883,12 @@ joga
 abban
 hogy
 kiket
+is
 nevezett
 ki
 antall
 szdsz
+be
 aacute
 ll
 iacute
@@ -1873,6 +1905,7 @@ ha
 bizony
 iacute
 eacute
+is
 aacute
 llt
 jeszenszkynek
@@ -1920,6 +1953,7 @@ appar
 aacute
 tus
 ebben
+is
 mint
 minden
 aacute
@@ -2150,9 +2184,11 @@ ge
 eacute
 eacute
 lafrika
+is
 eacute
 oroszorsz
 aacute
+is
 vil
 aacute
 gon
@@ -2186,6 +2222,7 @@ emigr
 aacute
 ci
 oacute
+is
 ki
 fogja
 eacute
@@ -2315,6 +2352,7 @@ tiszteletbeli
 konzulok
 akik
 ezt
+most
 felismerik
 nyilv
 aacute
@@ -2342,6 +2380,7 @@ laszt
 aacute
 el
 eacute
+be
 minthogy
 nyilv
 aacute
@@ -2363,6 +2402,7 @@ aacute
 laszt
 aacute
 ssal
+is
 eacute
 pesek
 mand
@@ -2461,6 +2501,7 @@ bb
 az
 1956
 ban
+is
 akkor
 fegyverrel
 magyar
@@ -2758,6 +2799,7 @@ eacute
 se
 ut
 aacute
+is
 megtarthat
 oacute
 nemzeti
@@ -2766,6 +2808,7 @@ ntudat
 uuml
 ouml
 nben
+is
 mi
 jelenti
 az
@@ -2923,8 +2966,10 @@ gazdas
 aacute
 gi
 eacute
+let
 ter
 uuml
+let
 eacute
 jelent
 otilde
@@ -3050,6 +3095,7 @@ togat
 oacute
 aacute
 rsaik
+is
 sz
 iacute
 vesen
@@ -3073,6 +3119,7 @@ ortodox
 zsid
 oacute
 gyermekei
+is
 uuml
 szk
 eacute
@@ -3134,6 +3181,7 @@ oacute
 ouml
 otilde
 eacute
+is
 eacute
 benn
 uuml
@@ -3169,10 +3217,13 @@ aacute
 ndoroltjainak
 unok
 aacute
+it
 eacute
 eacute
 dunok
 aacute
+it
+is
 teend
 otilde
 ink
@@ -3277,6 +3328,7 @@ ga
 fizikai
 eacute
 rtelemben
+is
 egyre
 nagyobb
 lesz
@@ -3314,6 +3366,7 @@ ir
 aacute
 nyban
 ez
+is
 hozz
 aacute
 aacute
@@ -3322,6 +3375,7 @@ ahhoz
 hogy
 iacute
 1980
+as
 felm
 eacute
 eacute
@@ -3347,6 +3401,7 @@ harminc
 al
 aacute
 esett
+felt
 eacute
 tlen
 uuml
@@ -3356,6 +3411,7 @@ ks
 eacute
 ges
 az
+is
 hogy
 az
 anyaorsz
@@ -3429,6 +3485,7 @@ ha
 figyelemebe
 vessz
 uuml
+is
 az
 egyh
 aacute
@@ -3450,6 +3507,7 @@ aacute
 mogat
 aacute
 sa
+is
 minim
 aacute
 lisra
@@ -3549,6 +3607,7 @@ ltal
 nem
 lakott
 helyeken
+is
 ucirc
 ouml
 dik
@@ -3682,6 +3741,7 @@ oacute
 rakoz
 aacute
 sra
+be
 aacute
 ll
 iacute
@@ -3818,6 +3878,7 @@ nyvt
 aacute
 egyes
 uuml
+let
 mellett
 egyik
 eacute
@@ -3870,6 +3931,7 @@ mellett
 uacute
 zeumi
 anyaggal
+is
 csak
 passaic
 magyar
@@ -3944,9 +4006,11 @@ ucirc
 kapcsolatot
 tudnak
 fenntartani
+felt
 eacute
 tlen
 uuml
+be
 kell
 rendezkedn
 uuml
@@ -3968,6 +4032,7 @@ magyar
 vonatkoz
 aacute
 sban
+is
 az
 amerikai
 magyar
@@ -4055,6 +4120,7 @@ ouml
 bbs
 eacute
 ge
+is
 amerikai
 igen
 nagy
@@ -4099,6 +4165,7 @@ aacute
 ci
 oacute
 fiataljai
+is
 haszn
 aacute
 lni
@@ -4144,6 +4211,7 @@ ntsem
 eacute
 pes
 az
+eg
 eacute
 sz
 feladatot
@@ -4151,6 +4219,7 @@ elv
 eacute
 gezni
 itt
+is
 magyarorsz
 aacute
 gi
@@ -4212,6 +4281,7 @@ pol
 aacute
 aacute
 hoz
+is
 iskol
 aacute
 gyermekek
@@ -4318,6 +4388,7 @@ tt
 id
 otilde
 szervesen
+be
 eacute
 uuml
 lj
@@ -4328,6 +4399,7 @@ aacute
 nyaikban
 ez
 anyagilag
+is
 el
 otilde
 ny
@@ -4419,6 +4491,7 @@ suntem
 acasa
 voi
 sunteti
+in
 gazda
 mi
 otthon
@@ -4443,6 +4516,7 @@ kedikt
 tum
 magyarorsz
 ter
+let
 nek
 tharmad
 felosztotta
@@ -4458,6 +4532,7 @@ lve
 mbmagyar
 ter
 leteket
+is
 rp
 medence
 magyar
@@ -4486,6 +4561,7 @@ llalt
 majd
 keszerz
 sben
+is
 kodifik
 lt
 nemzetis
@@ -4560,6 +4636,7 @@ en
 koncili
 ns
 egyoldal
+an
 bizalomer
 magyar
 nemzeti
@@ -4625,6 +4702,7 @@ federaliz
 lva
 az
 orsz
+got
 meghagyja
 ket
 gazdas
@@ -4707,6 +4785,7 @@ lyk
 nt
 telezett
 magyars
+got
 rom
 elemet
 tette
@@ -4728,6 +4807,7 @@ st
 ily
 don
 az
+eg
 szs
 ges
 konkurencia
@@ -4910,6 +4990,7 @@ ma
 magyars
 az
 ta
+is
 nem
 nt
 elem
@@ -4975,6 +5056,7 @@ meg
 szok
 srendszere
 bbs
+get
 orient
 erk
 lcsi
@@ -5053,6 +5135,7 @@ nemzeti
 immunrendszer
 nek
 megzavar
+is
 szolg
 lta
 nbsp
@@ -5060,6 +5143,7 @@ nbsp
 magyar
 kultur
 lis
+let
 szisztematikus
 puszt
 lehet
@@ -5077,6 +5161,7 @@ si
 int
 zm
 nyek
+eg
 sz
 sor
 nak
@@ -5118,6 +5203,7 @@ tozott
 auton
 mi
 ja
+is
 feled
 sbe
 mer
@@ -5171,6 +5257,7 @@ egy
 elit
 kitermel
 re
+is
 nbsp
 nbsp
 az
@@ -5205,6 +5292,7 @@ karbantart
 suk
 szabot
 sa
+eg
 szen
 magyar
 temet
@@ -5236,6 +5324,7 @@ bel
 akt
 szerepet
 lt
+be
 roml
 sz
 tm
@@ -5276,6 +5365,7 @@ vlat
 nyk
 nt
 llap
+that
 meg
 hogy
 rom
@@ -5296,6 +5386,7 @@ az
 1918
 oacute
 20
+as
 egyes
 ut
 megszerzett
@@ -5346,12 +5437,14 @@ diszkriminat
 tendenci
 kat
 eml
+ten
 mert
 gy
 lem
 ez
 az
 ter
+let
 mely
 rom
 nia
@@ -5395,6 +5488,7 @@ nbsp
 korom
 folytonoss
 elm
+let
 nek
 ny
 ben
@@ -5406,6 +5500,7 @@ jelenlegi
 rom
 nia
 ter
+let
 idej
 alkot
 munk
@@ -5438,16 +5533,19 @@ gondolatk
 lecsap
 sak
 nt
+is
 felfoghat
 hajdani
 rhelyi
 rigmus
+is
 mondja
 noi
 suntem
 acasa
 voi
 sunteti
+in
 gazda
 oacute
 mi
@@ -5468,6 +5566,7 @@ tfontoss
 dogm
 merevedett
 elm
+let
 ts
 gbevon
 sa
@@ -5656,6 +5755,7 @@ nemzet
 rt
 nelm
 ben
+is
 sor
 ker
 lhet
@@ -5707,6 +5807,7 @@ magyarellenes
 llel
 rom
 ns
+got
 erd
 ly
 negyedik
@@ -5908,6 +6009,7 @@ ut
 az
 eladdig
 az
+eg
 sz
 nemzetet
 sszefog
@@ -5935,6 +6037,7 @@ ekk
 nt
 dik
 ma
+is
 nbsp
 nbsp
 rom
@@ -5957,9 +6060,11 @@ st
 eur
 pa
 elleness
+get
 tagadhatatlan
 ugyanakkor
 az
+is
 hogy
 visszah
 tendenci
@@ -5968,6 +6073,7 @@ nemzeti
 mozgalmak
 harmadik
 1848
+as
 szellemis
 nek
 majd
@@ -5984,6 +6090,7 @@ ihez
 gener
 ci
 nak
+let
 nte
 ut
 xix
@@ -6033,6 +6140,7 @@ lt
 nyos
 lcs
 rdektiszteletet
+felt
 telez
 megold
 szisztematikus
@@ -6224,6 +6332,7 @@ ri
 szellemis
 gnek
 haszn
+felt
 tlen
 er
 ny
@@ -6245,6 +6354,7 @@ sz
 ra
 vannak
 rendeltetve
+felt
 tlen
 eml
 st
@@ -6266,6 +6376,7 @@ tt
 szeretn
 saj
 tj
+is
 tni
 gis
 hozz
@@ -6331,6 +6442,7 @@ geknek
 amikor
 tartalmi
 ress
+get
 delmezik
 vel
 ha
@@ -6364,6 +6476,7 @@ politikai
 elit
 szintj
 az
+eg
 sz
 nemzetet
 az
@@ -6397,6 +6510,7 @@ meg
 hogy
 ljen
 nincs
+is
 rtelme
 hogy
 ljen
@@ -6409,6 +6523,7 @@ van
 rajong
 sra
 oacute
+eg
 szen
 fanatizmusig
 egy
@@ -6422,6 +6537,7 @@ oacute
 ezeknek
 nem
 kell
+felt
 tlen
 megegyezni
 az
@@ -6466,6 +6582,7 @@ nem
 tett
 hozz
 megfogalmaz
+it
 rt
 nbe
 vetett
@@ -6485,6 +6602,7 @@ rtott
 antiliber
 lis
 idegengy
+let
 mindm
 ig
 egyik
@@ -6563,6 +6681,7 @@ els
 peri
 dus
 ban
+is
 ink
 bb
 suttog
@@ -6658,6 +6777,7 @@ felgyorsult
 nemzeti
 bred
 folyamata
+is
 amivel
 egyid
 ben
@@ -6682,6 +6802,7 @@ ny
 lt
 utal
 sokat
+is
 tartalmaztak
 magyar
 nemzeti
@@ -6730,6 +6851,7 @@ gnak
 sz
 nhet
 en
+felt
 rt
 mindaz
 soviniszta
@@ -6828,6 +6950,7 @@ katonai
 ny
 hirdet
 propaganda
+felt
 rekv
 magyar
 militarizmus
@@ -6943,6 +7066,7 @@ gazdas
 gi
 kulcspoz
 ci
+it
 konkl
 zi
 rgyalt
@@ -7124,6 +7248,7 @@ aacute
 gy
 ucirc
 otilde
+let
 ellen
 iii
 folytat
@@ -7177,6 +7302,7 @@ aacute
 lyt
 nemzetis
 eacute
+get
 vagy
 hitfelekezetet
 gy
@@ -7369,6 +7495,7 @@ se
 172
 hely
 eacute
+be
 demokratikus
 aacute
 llamrend
@@ -7452,6 +7579,7 @@ aacute
 llamrend
 hely
 eacute
+be
 eacute
 pi
 demokr
@@ -7475,6 +7603,7 @@ zt
 aacute
 rsas
 aacute
+got
 otilde
 az
 ezek
@@ -7659,6 +7788,7 @@ cselekmeenye
 gy
 ucirc
 ouml
+let
 felkelt
 eacute
 eacute
@@ -7689,6 +7819,7 @@ eacute
 gy
 ucirc
 ouml
+let
 kelt
 eacute
 eacute
@@ -7735,6 +7866,7 @@ ouml
 vette
 el
 az
+is
 aki
 aacute
 sok
@@ -7900,6 +8032,7 @@ felel
 otilde
 ss
 eacute
+get
 azzal
 hogy
 eacute
@@ -7961,6 +8094,7 @@ min
 otilde
 iacute
 tette
+most
 hat
 aacute
 lyos
@@ -8019,6 +8153,7 @@ nemzetet
 valamely
 nemzetis
 eacute
+get
 eacute
 pet
 felekezetet
@@ -8138,6 +8273,7 @@ nemzetet
 valamely
 nemzetis
 eacute
+get
 eacute
 pet
 felekezetet
@@ -8332,12 +8468,14 @@ hazai
 libertinus
 gondolkod
 oacute
+is
 akik
 szerint
 magyar
 nemzetr
 otilde
 nem
+is
 lehet
 besz
 eacute
@@ -8425,6 +8563,7 @@ oacute
 ak
 manaps
 aacute
+is
 tapasztalhat
 oacute
 hogy
@@ -8502,6 +8641,7 @@ eacute
 rtettje
 magyar
 nemzet
+is
 lehet
 ugyan
 uacute

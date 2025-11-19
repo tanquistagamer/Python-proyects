@@ -7,6 +7,7 @@ acu
 house
 ratings
 republicans
+in
 caps
 alabama
 edwards
@@ -24,6 +25,7 @@ smith
 shelby
 93
 alaska
+young
 92
 arizona
 rhodes
@@ -149,6 +151,7 @@ chappell
 93
 mccollum
 93
+young
 100
 gibbons
 38
@@ -310,6 +313,7 @@ moore
 100
 breaux
 69
+long
 maine
 emery
 93
@@ -318,6 +322,7 @@ snowe
 maryland
 dyson
 60
+long
 20
 mikulski
 holt
@@ -331,6 +336,7 @@ massachusetts
 conte
 67
 boland
+early
 14
 frank
 shannon
@@ -402,6 +408,7 @@ lott
 93
 missouri
 clay
+young
 33
 gephart
 27

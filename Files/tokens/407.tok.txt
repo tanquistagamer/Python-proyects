@@ -7,6 +7,7 @@ acu
 house
 ratings
 republicans
+in
 bold
 type
 acu
@@ -33,6 +34,7 @@ buchanan
 shelby
 76
 alaska
+young
 71
 71
 arizona
@@ -184,6 +186,7 @@ chappell
 kelly
 97
 97
+young
 92
 92
 gibbons
@@ -383,6 +386,7 @@ moore
 97
 breaux
 75
+long
 43
 maine
 emery
@@ -395,6 +399,7 @@ maryland
 bauman
 100
 100
+long
 29
 mikulski
 holt
@@ -412,6 +417,7 @@ conte
 23
 boland
 16
+early
 32
 drinan
 shannon
@@ -497,6 +503,7 @@ lott
 92
 missouri
 clay
+young
 18
 gephart
 21

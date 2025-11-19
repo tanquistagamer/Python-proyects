@@ -410,6 +410,7 @@ en
 ellos
 peque
 ntilde
+as
 acumulaciones
 de
 petr
@@ -481,6 +482,7 @@ oacute
 aunque
 todav
 iacute
+no
 se
 completaron
 estos
@@ -555,6 +557,7 @@ participaci
 oacute
 en
 el
+area
 de
 contrato
 de
@@ -645,6 +648,7 @@ de
 gas
 natural
 el
+area
 de
 contrato
 tiene

@@ -7,6 +7,7 @@ acu
 house
 ratings
 republicans
+in
 bold
 type
 acu
@@ -29,6 +30,7 @@ buchanan
 flowers
 51
 alaska
+young
 73
 arizona
 rhodes
@@ -155,6 +157,7 @@ chappell
 83
 kelly
 92
+young
 88
 gibbons
 48
@@ -321,6 +324,7 @@ moore
 92
 breaux
 67
+long
 35
 maine
 emery
@@ -330,6 +334,7 @@ cohen
 maryland
 bauman
 97
+long
 34
 mikulski
 holt
@@ -345,6 +350,7 @@ conte
 24
 boland
 11
+early
 22
 drinan
 tsongas
@@ -419,6 +425,7 @@ lott
 91
 missouri
 clay
+young
 29
 gephart
 32
@@ -765,6 +772,7 @@ poage
 wright
 hightower
 74
+young
 41
 de
 la
