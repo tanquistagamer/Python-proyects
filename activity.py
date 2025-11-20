@@ -3,6 +3,7 @@ from pathlib import Path
 from collections import defaultdict, Counter
 import re, time, math
 
+# foreach($t in $Q){ python retrieve.py $t --dir $DIR --log $LOG }
 FOLDER    = Path(r"C:\Users\Tanqu\OneDrive\Documentos\GitHub\School\Files")
 STOPLIST  = FOLDER / "stoplist_empty.txt"  # TXT con stoplist (una palabra por línea)
 MATRICULA = "2955178"

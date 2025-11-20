@@ -1,0 +1,333 @@
+﻿
+QUERY: elephants | stoplist=ON | time=0.0616s
+  (sin resultados)
+
+QUERY: elephants | stoplist=OFF | time=0.0310s
+  (sin resultados)
+
+QUERY: gauch | stoplist=ON | time=0.0599s
+  (sin resultados)
+
+QUERY: elephants | stoplist=ON | time=0.0625s
+  (sin resultados)
+
+QUERY: csce | stoplist=ON | time=0.0260s
+  (sin resultados)
+
+QUERY: arkansas | stoplist=ON | time=0.0238s
+   1. 432 433.html  score=6.224500
+   2. 434 435.html  score=6.224500
+   3. 435 436.html  score=6.224500
+   4. 338 339.html  score=5.610400
+   5. 359 360.html  score=4.320500
+   6. 433 434.html  score=4.001800
+   7. 436 437.html  score=4.001800
+   8. 042 043.html  score=3.512600
+   9. 407 408.html  score=2.729300
+  10. 418 419.html  score=2.729300
+
+QUERY: gift | stoplist=ON | time=0.0278s
+   1. 436 437.html  score=2.000900
+   2. 165 166.html  score=1.911700
+   3. 004 005.html  score=1.469400
+   4. 006 007.html  score=1.469400
+   5. 042 043.html  score=1.469400
+   6. 153 154.html  score=1.469400
+   7. 180 181.html  score=1.469400
+   8. 194 195.html  score=1.469400
+   9. 203 204.html  score=1.469400
+  10. 248 249.html  score=1.469400
+
+QUERY: abcdef | stoplist=ON | time=0.0228s
+  (sin resultados)
+
+QUERY: 20 | stoplist=ON | time=0.1245s
+   1. 432 433.html  score=53.820100
+   2. 434 435.html  score=50.952800
+   3. 433 434.html  score=50.112000
+   4. 435 436.html  score=42.106500
+   5. 436 437.html  score=31.038500
+   6. 341 342.html  score=10.164900
+   7. 306 307.html  score=8.957900
+   8. 363 364.html  score=7.842600
+   9. 042 043.html  score=7.386700
+  10. 350 351.html  score=6.642900
+
+QUERY: 20 07 | stoplist=ON | time=0.1615s
+   1. 432 433.html  score=53.820100
+   2. 434 435.html  score=50.952800
+   3. 433 434.html  score=50.112000
+   4. 435 436.html  score=42.106500
+   5. 436 437.html  score=31.038500
+   6. 306 307.html  score=11.454300
+   7. 341 342.html  score=10.164900
+   8. 350 351.html  score=8.865600
+   9. 365 366.html  score=8.698900
+  10. 363 364.html  score=7.842600
+
+QUERY: 123 456 7890 | stoplist=ON | time=0.0601s
+   1. 432 433.html  score=10.101000
+   2. 436 437.html  score=9.879200
+   3. 435 436.html  score=9.402000
+   4. 433 434.html  score=7.719900
+   5. 434 435.html  score=5.655600
+   6. 026 027.html  score=3.002000
+   7. 058 059.html  score=1.398800
+   8. 149 150.html  score=1.398800
+   9. 155 156.html  score=1.398800
+  10. 191 192.html  score=1.398800
+
+QUERY: lawyer consumers | stoplist=ON | time=0.0529s
+   1. 358 359.html  score=4.320500
+   2. 026 027.html  score=2.891800
+   3. 433 434.html  score=2.891800
+   4. 434 435.html  score=2.891800
+   5. 366 367.html  score=2.500200
+   6. 309 310.html  score=2.342600
+   7. 160 161.html  score=2.222700
+   8. 375 376.html  score=2.222700
+   9. 380 381.html  score=2.222700
+  10. 436 437.html  score=2.222700
+
+QUERY: garden computer | stoplist=ON | time=0.0843s
+   1. 435 436.html  score=7.863800
+   2. 433 434.html  score=7.833100
+   3. 434 435.html  score=7.441400
+   4. 294 295.html  score=4.015000
+   5. 461 462.html  score=3.988000
+   6. 326 327.html  score=3.120900
+   7. 249 250.html  score=2.692200
+   8. 220 221.html  score=2.398800
+   9. 436 437.html  score=2.398800
+  10. 178 179.html  score=2.340500
+
+QUERY: united states laws | stoplist=ON | time=0.2061s
+   1. 435 436.html  score=24.647500
+   2. 434 435.html  score=23.242100
+   3. 433 434.html  score=18.483200
+   4. 432 433.html  score=17.813000
+   5. 348 349.html  score=11.880700
+   6. 436 437.html  score=11.064000
+   7. 382 383.html  score=10.393100
+   8. 347 348.html  score=8.939700
+   9. 364 365.html  score=8.891900
+  10. 341 342.html  score=8.750100
+
+QUERY: gauch | stoplist=ON | time=0.1583s
+  (sin resultados)
+
+QUERY: elephants | stoplist=ON | time=0.0690s
+  (sin resultados)
+
+QUERY: csce | stoplist=ON | time=0.0256s
+  (sin resultados)
+
+QUERY: arkansas | stoplist=ON | time=0.0281s
+   1. 432 433.html  score=6.224500
+   2. 434 435.html  score=6.224500
+   3. 435 436.html  score=6.224500
+   4. 338 339.html  score=5.610400
+   5. 359 360.html  score=4.320500
+   6. 433 434.html  score=4.001800
+   7. 436 437.html  score=4.001800
+   8. 042 043.html  score=3.512600
+   9. 407 408.html  score=2.729300
+  10. 418 419.html  score=2.729300
+
+QUERY: gift | stoplist=ON | time=0.0318s
+   1. 436 437.html  score=2.000900
+   2. 165 166.html  score=1.911700
+   3. 004 005.html  score=1.469400
+   4. 006 007.html  score=1.469400
+   5. 042 043.html  score=1.469400
+   6. 153 154.html  score=1.469400
+   7. 180 181.html  score=1.469400
+   8. 194 195.html  score=1.469400
+   9. 203 204.html  score=1.469400
+  10. 248 249.html  score=1.469400
+
+QUERY: abcdef | stoplist=ON | time=0.0288s
+  (sin resultados)
+
+QUERY: 20 | stoplist=ON | time=0.1544s
+   1. 432 433.html  score=53.820100
+   2. 434 435.html  score=50.952800
+   3. 433 434.html  score=50.112000
+   4. 435 436.html  score=42.106500
+   5. 436 437.html  score=31.038500
+   6. 341 342.html  score=10.164900
+   7. 306 307.html  score=8.957900
+   8. 363 364.html  score=7.842600
+   9. 042 043.html  score=7.386700
+  10. 350 351.html  score=6.642900
+
+QUERY: 20 07 | stoplist=ON | time=0.2254s
+   1. 432 433.html  score=53.820100
+   2. 434 435.html  score=50.952800
+   3. 433 434.html  score=50.112000
+   4. 435 436.html  score=42.106500
+   5. 436 437.html  score=31.038500
+   6. 306 307.html  score=11.454300
+   7. 341 342.html  score=10.164900
+   8. 350 351.html  score=8.865600
+   9. 365 366.html  score=8.698900
+  10. 363 364.html  score=7.842600
+
+QUERY: 123 456 7890 | stoplist=ON | time=0.0681s
+   1. 432 433.html  score=10.101000
+   2. 436 437.html  score=9.879200
+   3. 435 436.html  score=9.402000
+   4. 433 434.html  score=7.719900
+   5. 434 435.html  score=5.655600
+   6. 026 027.html  score=3.002000
+   7. 058 059.html  score=1.398800
+   8. 149 150.html  score=1.398800
+   9. 155 156.html  score=1.398800
+  10. 191 192.html  score=1.398800
+
+QUERY: lawyer consumers | stoplist=ON | time=0.0693s
+   1. 358 359.html  score=4.320500
+   2. 026 027.html  score=2.891800
+   3. 433 434.html  score=2.891800
+   4. 434 435.html  score=2.891800
+   5. 366 367.html  score=2.500200
+   6. 309 310.html  score=2.342600
+   7. 160 161.html  score=2.222700
+   8. 375 376.html  score=2.222700
+   9. 380 381.html  score=2.222700
+  10. 436 437.html  score=2.222700
+
+QUERY: garden computer | stoplist=ON | time=0.0912s
+   1. 435 436.html  score=7.863800
+   2. 433 434.html  score=7.833100
+   3. 434 435.html  score=7.441400
+   4. 294 295.html  score=4.015000
+   5. 461 462.html  score=3.988000
+   6. 326 327.html  score=3.120900
+   7. 249 250.html  score=2.692200
+   8. 220 221.html  score=2.398800
+   9. 436 437.html  score=2.398800
+  10. 178 179.html  score=2.340500
+
+QUERY: united states laws | stoplist=ON | time=0.2339s
+   1. 435 436.html  score=24.647500
+   2. 434 435.html  score=23.242100
+   3. 433 434.html  score=18.483200
+   4. 432 433.html  score=17.813000
+   5. 348 349.html  score=11.880700
+   6. 436 437.html  score=11.064000
+   7. 382 383.html  score=10.393100
+   8. 347 348.html  score=8.939700
+   9. 364 365.html  score=8.891900
+  10. 341 342.html  score=8.750100
+
+QUERY: gauch | stoplist=OFF | time=0.2655s
+  (sin resultados)
+
+QUERY: elephants | stoplist=OFF | time=0.0369s
+  (sin resultados)
+
+QUERY: csce | stoplist=OFF | time=0.0250s
+  (sin resultados)
+
+QUERY: arkansas | stoplist=OFF | time=0.0970s
+   1. 433 434.html  score=5.513500
+   2. 432 433.html  score=4.399700
+   3. 379 380.html  score=3.512600
+   4. 386 387.html  score=2.398800
+   5. 348 349.html  score=2.174200
+   6. 339 340.html  score=2.077400
+   7. 434 435.html  score=2.000900
+   8. 435 436.html  score=2.000900
+   9. 436 437.html  score=2.000900
+  10. 337 338.html  score=1.958900
+
+QUERY: gift | stoplist=OFF | time=0.0468s
+   1. 435 436.html  score=4.098700
+   2. 360 361.html  score=3.988000
+   3. 227 228.html  score=3.512600
+   4. 125 126.html  score=2.398800
+   5. 392 393.html  score=2.398800
+   6. 432 433.html  score=2.000900
+   7. 433 434.html  score=2.000900
+   8. 434 435.html  score=2.000900
+   9. 436 437.html  score=2.000900
+
+QUERY: abcdef | stoplist=OFF | time=0.0184s
+  (sin resultados)
+
+QUERY: 20 | stoplist=OFF | time=0.1367s
+   1. 434 435.html  score=45.709100
+   2. 433 434.html  score=33.377700
+   3. 436 437.html  score=20.754100
+   4. 435 436.html  score=15.629900
+   5. 339 340.html  score=11.193200
+   6. 432 433.html  score=9.995300
+   7. 338 339.html  score=8.907800
+   8. 376 377.html  score=6.597600
+   9. 375 376.html  score=6.294600
+  10. 348 349.html  score=6.241900
+
+QUERY: 20 07 | stoplist=OFF | time=0.1991s
+   1. 434 435.html  score=51.808700
+   2. 433 434.html  score=39.477300
+   3. 436 437.html  score=27.456000
+   4. 435 436.html  score=19.631700
+   5. 432 433.html  score=16.094900
+   6. 339 340.html  score=13.042100
+   7. 348 349.html  score=8.971200
+   8. 338 339.html  score=8.907800
+   9. 373 374.html  score=8.214600
+  10. 308 309.html  score=7.209500
+
+QUERY: 123 456 7890 | stoplist=OFF | time=0.1360s
+   1. 434 435.html  score=8.021200
+   2. 433 434.html  score=6.400600
+   3. 436 437.html  score=6.196400
+   4. 432 433.html  score=5.798500
+   5. 458 459.html  score=2.222700
+   6. 463 464.html  score=2.222700
+   7. 353 354.html  score=2.000900
+   8. 435 436.html  score=2.000900
+   9. 322 323.html  score=1.854700
+  10. 043 044.html  score=1.796700
+
+QUERY: lawyer consumers | stoplist=OFF | time=0.0721s
+   1. 484 486.html  score=3.512600
+   2. 297 298.html  score=3.120900
+   3. 248 249.html  score=2.413100
+   4. 251 252.html  score=2.413100
+   5. 256 257.html  score=2.413100
+   6. 258 259.html  score=2.413100
+   7. 340 341.html  score=2.398800
+   8. 433 434.html  score=2.398800
+   9. 435 436.html  score=2.398800
+  10. 042 043.html  score=2.222700
+
+QUERY: garden computer | stoplist=OFF | time=0.0834s
+   1. 433 434.html  score=12.064200
+   2. 432 433.html  score=10.022000
+   3. 436 437.html  score=7.971400
+   4. 435 436.html  score=7.121700
+   5. 348 349.html  score=7.025200
+   6. 434 435.html  score=6.840400
+   7. 373 374.html  score=4.899000
+   8. 351 352.html  score=4.421900
+   9. 054 055.html  score=3.988000
+  10. 118 119.html  score=3.988000
+
+QUERY: united states laws | stoplist=OFF | time=0.3863s
+   1. 433 434.html  score=31.661400
+   2. 434 435.html  score=30.003000
+   3. 435 436.html  score=24.517500
+   4. 436 437.html  score=19.105800
+   5. 432 433.html  score=16.936200
+   6. 338 339.html  score=7.653300
+   7. 357 358.html  score=6.279900
+   8. 375 376.html  score=6.203800
+   9. 376 377.html  score=5.824200
+  10. 354 355.html  score=5.036900
+
+QUERY: elephants | stoplist=OFF | time=0.0335s
+  (sin resultados)
+

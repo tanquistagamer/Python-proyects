@@ -1,0 +1,59 @@
+cd "C:\Users\Tanqu\OneDrive\Documentos\GitHub\School"
+
+# rutas utiles
+$DIR = ".\Files"
+$LOG = "$DIR\a13_2955178.txt"
+
+# Lista de consultas a probar
+$Q = @(
+  "Gauch","elephants","CSCE","Arkansas","gift","abcdef",
+  "20","20.07","123-456-7890",
+  "lawyer consumers","garden computer","United States laws"
+)
+
+# con stoplist
+python .\retrieve13.py elephants --dir ".\Files" --log ".\Files\a13_2955178.txt"
+
+# sin stoplist (usa *_all.txt)
+python .\retrieve13.py elephants --nostop --dir ".\Files" --log ".\Files\a13_2955178.txt"
+
+# Palabras a probar para la actividad:
+$Q = @("Gauch","elephants","CSCE","Arkansas","gift","abcdef","20","20.07","123-456-7890","lawyer consumers","garden computer","United States laws")
+foreach($t in $Q){ python .\retrieve13.py $t --dir ".\Files" --log ".\Files\a13_2955178.txt" }
+foreach($t in $Q){ python .\retrieve13.py $t --nostop --dir ".\Files" --log ".\Files\a13_2955178.txt" }
+
+$DIR = ".\Files"
+"" | Out-File "$DIR\a12_2955178.txt" -Encoding utf8
+"" | Out-File "$DIR\a13_2955178.txt" -Encoding utf8
+
+# 1) Variables
+$DIR = ".\Files"
+$LOG = "$DIR\a13_2955178.txt"
+
+# 2) Limpiar el log al inicio
+"" | Out-File $LOG -Encoding utf8
+
+# 3) Una búsqueda (con stoplist)
+python .\retrieve13.py elephants --dir $DIR --log $LOG
+
+# 4) Una búsqueda (sin stoplist)
+python .\retrieve13.py elephants --nostop --dir $DIR --log $LOG
+
+# 5) Todas las consultas del enunciado (con stoplist)
+$Q = @("Gauch","elephants","CSCE","Arkansas","gift","abcdef","20","20.07",
+       "123-456-7890","lawyer consumers","garden computer","United States laws")
+foreach($t in $Q){ python .\retrieve13.py $t --dir $DIR --log $LOG }
+
+# 6) Las mismas sin stoplist
+foreach($t in $Q){ python .\retrieve13.py $t --nostop --dir $DIR --log $LOG }
+
+# 7) Ver lo que se escribió
+Get-Content $LOG -Tail 40
+
+
+A13 – Retrieve sin carga en memoria. La consulta normaliza tokens, 
+calcula el slot con la misma hash del diccionario, lee el registro fijo (20B) 
+para obtener df y el start del posting, y luego recorre secuencialmente df 
+registros del posting (10B c/u) acumulando el score por documento (suma de pesos tf-idf). 
+Finalmente ordena y muestra el Top 10 por puntaje. 
+Se ejecutó con y sin stop-list. Se registraron tiempos por consulta en a13_2955178.txt.
