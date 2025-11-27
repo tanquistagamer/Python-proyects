@@ -14,6 +14,47 @@ TOKEN_RE = re.compile(r"[a-z0-9áéíóúüñ']+", re.I)
 def toks(q: str):
     return [t for t in TOKEN_RE.findall(q.lower()) if len(t) > 1]
 
+
+# ---------- versión reutilizable para web / CGI (sin prints) ----------
+def search_scores(query_tokens, base: Path, use_stop: bool):
+    """
+    Versión sin prints ni logs.
+    Regresa ([(docname, score), ...], elapsed_segundos)
+    """
+    # Selección de archivos (con o sin stoplist)
+    suf = "" if use_stop else "_all"
+    dict_path = base / f"dictionary_hash{suf}.txt"
+    post_path = base / f"posting{suf}.txt"
+    docs_path = base / f"documents{suf}.txt"
+
+    t0 = time.perf_counter()
+    scores = {}  # docID -> acumulado de pesos
+
+    with post_path.open("r", encoding="utf-8") as post_fp:
+        for q in query_tokens:
+            df, start = find_token_in_dict(dict_path, q)
+            if df <= 0 or start < 0:
+                continue
+            # leer df registros a partir de start (start es 0-based en el indexador)
+            for k in range(df):
+                did, w = read_post_record(post_fp, start + k + 1)  # 1-based
+                if did:
+                    scores[did] = scores.get(did, 0.0) + w
+
+    elapsed = time.perf_counter() - t0
+
+    # Top-10 por score
+    top = sorted(scores.items(), key=lambda x: (-x[1], x[0]))[:10]
+
+    # Convertir a nombres de archivo
+    results = []
+    for did, sc in top:
+        name = read_docname(docs_path, did)
+        results.append((name, sc))
+
+    return results, elapsed
+
+
 # ---------- utilidades de lectura línea-a-línea (no offsets de bytes) ----------
 def read_line(fp, n: int) -> str:
     """Lee la línea n (1-based) sin \r\n."""
@@ -60,8 +101,10 @@ def read_docname(documents_path: Path, docid: int) -> str:
 def count_lines(p: Path) -> int:
     n = 0
     with p.open("r", encoding="utf-8") as f:
-        for _ in f: n += 1
+        for _ in f:
+            n += 1
     return n
+
 
 # ---------- hash y búsqueda en el diccionario ----------
 def djb2(s: str) -> int:
@@ -85,65 +128,62 @@ def find_token_in_dict(dict_path: Path, token: str):
                 return df, start
     return 0, -1
 
-# ---------- búsqueda ----------
-def search(query_tokens, base: Path, use_stop: bool, log_path: Path|None):
-    # Selección de archivos (con o sin stoplist)
-    suf = "" if use_stop else "_all"
-    dict_path = base / f"dictionary_hash{suf}.txt"
-    post_path = base / f"posting{suf}.txt"
-    docs_path = base / f"documents{suf}.txt"
 
-    t0 = time.perf_counter()
-    scores = {}  # docID -> acumulado de pesos
-
-    with post_path.open("r", encoding="utf-8") as post_fp:
-        for q in query_tokens:
-            df, start = find_token_in_dict(dict_path, q)
-            if df <= 0 or start < 0:
-                continue
-            # leer df registros a partir de start (start es 0-based en el indexador)
-            for k in range(df):
-                did, w = read_post_record(post_fp, start + k + 1)  # 1-based
-                if did:
-                    scores[did] = scores.get(did, 0.0) + w
-
-    elapsed = time.perf_counter() - t0
-
-    # Top-10 por score
-    top = sorted(scores.items(), key=lambda x: (-x[1], x[0]))[:10]
+# ---------- búsqueda "clásica" A13 (con prints + log) ----------
+def search(query_tokens, base: Path, use_stop: bool, log_path: Path | None):
+    """
+    Versión usada en consola (main) con impresión y log.
+    Internamente usa search_scores(..).
+    """
+    results, elapsed = search_scores(query_tokens, base, use_stop)
 
     # ----- salida en consola -----
     print("Retrieve", " ".join(query_tokens))
-    if not top:
+    if not results:
         print("(sin resultados)")
     else:
         print("Top documents")
-        for i, (did, sc) in enumerate(top, 1):
-            name = read_docname(docs_path, did)
+        for i, (name, sc) in enumerate(results, 1):
             print(f"{i:2d}. {name}")
 
     # ----- log -----
     if log_path:
         log_path = Path(log_path)
         with log_path.open("a", encoding="utf-8") as lg:
-            lg.write(f"QUERY: {' '.join(query_tokens)} | "
-                     f"stoplist={'ON' if use_stop else 'OFF'} | "
-                     f"time={elapsed:.4f}s\n")
-            if not top:
+            lg.write(
+                f"QUERY: {' '.join(query_tokens)} | "
+                f"stoplist={'ON' if use_stop else 'OFF'} | "
+                f"time={elapsed:.4f}s\n"
+            )
+            if not results:
                 lg.write("  (sin resultados)\n\n")
             else:
-                for i, (did, sc) in enumerate(top, 1):
-                    name = read_docname(docs_path, did)
-                    lg.write(f"  {i:2d}. {did:03d} {name}  score={sc:.6f}\n")
+                for i, (name, sc) in enumerate(results, 1):
+                    lg.write(f"  {i:2d}. {name}  score={sc:.6f}\n")
                 lg.write("\n")
 
+
+# ---------- main de línea de comandos ----------
 def main():
     ap = argparse.ArgumentParser(
-        description="retrieve13: consulta de términos/frases (Top-10) sin cargar índices en memoria")
+        description="retrieve13: consulta de términos/frases (Top-10) sin cargar índices en memoria"
+    )
     ap.add_argument("query", nargs="+")
-    ap.add_argument("--dir", default=".", help="carpeta con dictionary*/posting*/documents*")
-    ap.add_argument("--nostop", action="store_true", help="usar archivos *_all (sin stoplist)")
-    ap.add_argument("--log", default=None, help="archivo log (a13_matricula.txt)")
+    ap.add_argument(
+        "--dir",
+        default=".",
+        help="carpeta con dictionary*/posting*/documents*",
+    )
+    ap.add_argument(
+        "--nostop",
+        action="store_true",
+        help="usar archivos *_all (sin stoplist)",
+    )
+    ap.add_argument(
+        "--log",
+        default=None,
+        help="archivo log (a13_matricula.txt)",
+    )
     args = ap.parse_args()
 
     base = Path(args.dir)
@@ -156,7 +196,36 @@ def main():
         print("No hay tokens de búsqueda después de normalizar.")
         return
 
-    search(qtokens, base, use_stop=(not args.nostop), log_path=Path(args.log) if args.log else None)
+    search(
+        qtokens,
+        base,
+        use_stop=(not args.nostop),
+        log_path=Path(args.log) if args.log else None,
+    )
+
+
+# ---------- wrapper para CGI / web ----------
+def run_query(q: str, base: Path, use_stop: bool = True, topk: int = 10):
+    """
+    Wrapper para CGI / web.
+    q: texto completo escrito por el usuario
+    base: carpeta con dictionary*/posting*/documents*
+    use_stop: True = con stoplist, False = sin stoplist
+    Devuelve: ([(docname, score), ...], tiempo_ms)
+    """
+    # Tokenizar con la misma regex del índice
+    qtokens = []
+    for part in q.split():
+        qtokens += toks(part)
+
+    if not qtokens:
+        return [], 0
+
+    results, elapsed = search_scores(qtokens, base, use_stop)
+    results = results[:topk]
+    ms = int(elapsed * 1000)
+    return results, ms
+
 
 if __name__ == "__main__":
     main()
